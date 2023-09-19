@@ -741,6 +741,7 @@
 
 ## Vim Script 
 
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [jnurmine/Zenburn](https://github.com/jnurmine/Zenburn) - Zenburn is a low-contrast color scheme for Vim.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
