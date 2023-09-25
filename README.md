@@ -646,6 +646,7 @@
 
 ## Rust 
 
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
 - [gabrieldemian/vincenzo](https://github.com/gabrieldemian/vincenzo) - A BitTorrent client with vim-like keybindings and a terminal based UI.
 - [moali87/jirust](https://github.com/moali87/jirust) - Jira terminal UI
