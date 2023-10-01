@@ -649,6 +649,9 @@
 
 ## Rust 
 
+- [ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises) - Exercises for learning Rust, by Ferrous Systems
+- [zwpaper/dilu](https://github.com/zwpaper/dilu) - A colorful CLI client with icons for accessing data via OpenDAL
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
