@@ -17,6 +17,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
@@ -52,6 +53,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [finance](#finance)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -143,10 +145,12 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
+- [website](#website)
 - [windows](#windows)
 
 ## android 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
@@ -228,6 +232,10 @@
 
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
+## backend 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+
 ## bash 
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -271,6 +279,8 @@
 
 ## cli 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [zwpaper/dilu](https://github.com/zwpaper/dilu) - A colorful CLI client with icons for accessing data via OpenDAL
 - [moali87/jirust](https://github.com/moali87/jirust) - Jira terminal UI
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -371,6 +381,7 @@
 
 ## devops 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
@@ -388,6 +399,7 @@
 
 ## docker 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -414,6 +426,7 @@
 
 ## documentation 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
@@ -460,6 +473,10 @@
 
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
+## firebase 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+
 ## firefox 
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
@@ -471,6 +488,7 @@
 
 ## flutter 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
@@ -510,6 +528,8 @@
 
 ## go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -549,6 +569,7 @@
 
 ## golang 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -597,6 +618,8 @@
 
 ## hacktoberfest 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
@@ -663,6 +686,7 @@
 
 ## ios 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Lyndir/MasterPassword](https://github.com/Lyndir/MasterPassword) - Project moved to https://gitlab.com/spectre.app
 
 ## iot 
@@ -689,6 +713,8 @@
 
 ## javascript 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -765,6 +791,7 @@
 
 ## linux 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -785,6 +812,7 @@
 
 ## lua 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
 ## mac 
@@ -860,6 +888,7 @@
 
 ## open-source 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
@@ -882,6 +911,7 @@
 
 ## others 
 
+- [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises) - Exercises for learning Rust, by Ferrous Systems
 - [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
@@ -1265,6 +1295,7 @@
 
 ## react 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -1299,6 +1330,7 @@
 
 ## rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
@@ -1360,6 +1392,7 @@
 
 ## self-hosted 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -1382,12 +1415,14 @@
 
 ## serverless 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
 ## shell 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1421,6 +1456,7 @@
 
 ## swift 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## tensorflow 
@@ -1429,6 +1465,8 @@
 
 ## terminal 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [moali87/jirust](https://github.com/moali87/jirust) - Jira terminal UI
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -1500,6 +1538,7 @@
 
 ## web 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [ReimuNotMoe/Marisa](https://github.com/ReimuNotMoe/Marisa) - A lightening fast, express-like C++ web server framework
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
@@ -1507,6 +1546,10 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## website 
+
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## windows 
 
