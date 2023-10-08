@@ -33,6 +33,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -472,6 +473,10 @@
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 
+## Nim 
+
+- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Telemetry and observability for CI through production
+
 ## Nix 
 
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
@@ -498,6 +503,7 @@
 
 ## Others 
 
+- [oxda/usb-cereal](https://github.com/oxda/usb-cereal) - USB-Cereal is a powerful, fully open source development tool that simplifies testing, development, debugging, and manufacturing of devices that utilize USB-C. Using USB-C’s extended capabilities this 
 - [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
 - [DanInvents/ToastyBoy](https://github.com/DanInvents/ToastyBoy) - ToastyBoy repository
 - [dennyzhang/kubernetes-yaml-templates](https://github.com/dennyzhang/kubernetes-yaml-templates) - Kubernetes Yaml Templates
@@ -563,6 +569,7 @@
 
 ## Python 
 
+- [peterzieba/5Vpld](https://github.com/peterzieba/5Vpld) - A collection of scripts and tools for Atmel ATF150x and GAL Programmable logic devices, some of the only standing active 5V programmable logic parts still available.
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -654,6 +661,7 @@
 
 ## Rust 
 
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises) - Exercises for learning Rust, by Ferrous Systems
 - [zwpaper/dilu](https://github.com/zwpaper/dilu) - A colorful CLI client with icons for accessing data via OpenDAL
