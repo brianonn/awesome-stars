@@ -469,7 +469,7 @@
 
 ## ethereum 
 
-- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
@@ -1446,7 +1446,7 @@
 
 ## solidity 
 
-- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 
