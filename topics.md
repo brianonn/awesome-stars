@@ -404,7 +404,7 @@
 
 ## docker 
 
-- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Telemetry and observability for CI through production
+- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Telemetry & observability for the software development lifecycle.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
@@ -1339,6 +1339,7 @@
 
 ## rust 
 
+- [nokyan/resources](https://github.com/nokyan/resources) - Monitor your system resources and processes
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
