@@ -59,6 +59,7 @@
 
 ## Assembly 
 
+- [skiselev/8088_bios](https://github.com/skiselev/8088_bios) - BIOS for Intel 8088 based computers
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
 - [bitdump/BLHeli](https://github.com/bitdump/BLHeli) - BLHeli for brushless ESC firmware
 - [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
