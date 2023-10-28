@@ -590,7 +590,7 @@
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
-- [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer
+- [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
 - [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [adam7/delugia-code](https://github.com/adam7/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
