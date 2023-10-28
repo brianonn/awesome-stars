@@ -1520,7 +1520,7 @@
 
 ## ubuntu 
 
-- [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer
+- [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
 - [phpv8/ppa-packaging](https://github.com/phpv8/ppa-packaging) - Semi-automated scripts for Ubuntu packaging
 
 ## vim 
