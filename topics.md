@@ -406,7 +406,7 @@
 
 ## docker 
 
-- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Observability for the software development lifecycle.
+- [crashappsec/chalk](https://github.com/crashappsec/chalk) - X-ray vision for the software development lifecycle.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
@@ -928,6 +928,7 @@
 
 ## others 
 
+- [linuxdeepin/xdg-desktop-portal-dde](https://github.com/linuxdeepin/xdg-desktop-portal-dde) - 
 - [skiselev/8088_bios](https://github.com/skiselev/8088_bios) - BIOS for Intel 8088 based computers
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [INeed4000Bucks/cloudscraper](https://github.com/INeed4000Bucks/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
@@ -1533,6 +1534,7 @@
 
 ## vim 
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
