@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [linuxdeepin/xdg-desktop-portal-dde](https://github.com/linuxdeepin/xdg-desktop-portal-dde) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
@@ -480,7 +481,7 @@
 
 ## Nim 
 
-- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Observability for the software development lifecycle.
+- [crashappsec/chalk](https://github.com/crashappsec/chalk) - X-ray vision for the software development lifecycle.
 
 ## Nix 
 
@@ -754,6 +755,7 @@
 
 ## TypeScript 
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
