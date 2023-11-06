@@ -927,6 +927,7 @@
 
 ## others 
 
+- [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [linuxdeepin/xdg-desktop-portal-dde](https://github.com/linuxdeepin/xdg-desktop-portal-dde) - 
 - [skiselev/8088_bios](https://github.com/skiselev/8088_bios) - BIOS for Intel 8088 based computers
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
