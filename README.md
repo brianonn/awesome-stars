@@ -367,6 +367,7 @@
 
 ## Java 
 
+- [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [XanderYe/tmm-cracker](https://github.com/XanderYe/tmm-cracker) - tmm(tinymediamanager)4.0.6破解
