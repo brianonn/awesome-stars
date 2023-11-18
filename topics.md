@@ -131,6 +131,7 @@
 - [software](#software)
 - [solidity](#solidity)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1470,6 +1471,10 @@
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
+
+## sqlite 
+
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
 ## statistics 
 
