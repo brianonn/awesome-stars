@@ -465,7 +465,6 @@
 
 ## Makefile 
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [azer/go-makefile-example](https://github.com/azer/go-makefile-example) - Example Makefile for Go projects
 - [cloudflare/hellogopher](https://github.com/cloudflare/hellogopher) - Hellogopher: "just clone and make" your conventional Go project
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -530,6 +529,7 @@
 - [ghaiklor/awesome-internals](https://github.com/ghaiklor/awesome-internals) - A curated list of awesome resources and learning materials in the field of X internals
 - [sidkshatriya/me](https://github.com/sidkshatriya/me) - This is a space where I express my thoughts and opinions on mostly technical things
 - [mcqua007/schwifty](https://github.com/mcqua007/schwifty) - Schwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get schwifty!
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [MediaBrowser/Wiki](https://github.com/MediaBrowser/Wiki) - The Emby Wiki
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
