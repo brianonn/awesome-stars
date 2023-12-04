@@ -17,6 +17,7 @@
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [Erlang](#erlang)
 - [Forth](#forth)
 - [Go](#go)
 - [HCL](#hcl)
@@ -222,6 +223,10 @@
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [clemera/helm-ido-like-guide](https://github.com/clemera/helm-ido-like-guide) - Guide to get an intuitive and more ido-like helm interface in Emacs. Recommends configurations and packages to improve helms default interface.
 - [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
+
+## Erlang 
+
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
 
 ## Forth 
 
