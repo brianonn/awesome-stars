@@ -107,6 +107,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -1066,7 +1067,6 @@
 - [niemeyer/hsandbox](https://github.com/niemeyer/hsandbox) - Hacking Sandbox: Multi-language interactive edit [&gt; compile] &gt; run hacking and experimenting tool.
 - [kballard/go-shellquote](https://github.com/kballard/go-shellquote) - Go utilities for performing shell-like word splitting/joining
 - [domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc) - openwrt CC with Domino/GL patches
-- [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [cbunt1/BTRMS](https://github.com/cbunt1/BTRMS) - A tool to clone, backup, restore, modify and manipulate the configuration of routers running Tomato firmware
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [cloudshark/cshark](https://github.com/cloudshark/cshark) - OpenWrt integration
@@ -1152,7 +1152,6 @@
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
-- [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [ccelio/riscv-boom-doc](https://github.com/ccelio/riscv-boom-doc) - Documentation for the BOOM processor
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
@@ -1256,6 +1255,15 @@
 ## powershell 
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+## privacy 
+
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
+- [univ-of-utah-marriott-library-apple/privacy_services_manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - A single management utility to administer Location Services, Contacts requests, Accessibility, and iCloud access in Apple's OS X.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 
 ## project-management 
 
