@@ -70,6 +70,9 @@
 
 ## C 
 
+- [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
+- [wtarreau/bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
+- [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
@@ -372,6 +375,7 @@
 
 ## Java 
 
+- [vladmihalcea/hypersistence-tsid](https://github.com/vladmihalcea/hypersistence-tsid) - A Java library for generating Time-Sorted Unique Identifiers (TSID).
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -581,6 +585,7 @@
 
 ## Python 
 
+- [jeffersonmourak/pyTerm](https://github.com/jeffersonmourak/pyTerm) - A terminal client for linux. powered with python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
