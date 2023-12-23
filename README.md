@@ -70,6 +70,7 @@
 
 ## C 
 
+- [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [wtarreau/bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
@@ -239,6 +240,7 @@
 
 ## Go 
 
+- [damicon/zfswatcher](https://github.com/damicon/zfswatcher) - ZFS pool monitoring and notification daemon
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
@@ -518,6 +520,7 @@
 
 ## Others 
 
+- [ewwhite/zfs-ha](https://github.com/ewwhite/zfs-ha) - ZFS High-Availability NAS
 - [oxda/usb-cereal](https://github.com/oxda/usb-cereal) - USB-Cereal is a powerful, fully open source development tool that simplifies testing, development, debugging, and manufacturing of devices that utilize USB-C. Using USB-C’s extended capabilities this 
 - [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
 - [DanInvents/ToastyBoy](https://github.com/DanInvents/ToastyBoy) - ToastyBoy repository
