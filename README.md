@@ -588,6 +588,7 @@
 
 ## Python 
 
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [jeffersonmourak/pyTerm](https://github.com/jeffersonmourak/pyTerm) - A terminal client for linux. powered with python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
