@@ -937,6 +937,7 @@
 
 ## others 
 
+- [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [damicon/zfswatcher](https://github.com/damicon/zfswatcher) - ZFS pool monitoring and notification daemon
 - [ewwhite/zfs-ha](https://github.com/ewwhite/zfs-ha) - ZFS High-Availability NAS
