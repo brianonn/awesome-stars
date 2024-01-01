@@ -973,7 +973,7 @@
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
 - [dundalek/kmdoc](https://github.com/dundalek/kmdoc) - KMDoc is a software for an intelligent representation of knowledge useful for quick learning and browsing.
-- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
 - [profdc9/LinearPS](https://github.com/profdc9/LinearPS) - Linear constant constant/current constant voltage power supply PCB
 - [profdc9/PowerAmpAudio](https://github.com/profdc9/PowerAmpAudio) - Power Amplifier based on Michael Chua's C300 amplifier
