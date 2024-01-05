@@ -70,6 +70,7 @@
 
 ## C 
 
+- [openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [wtarreau/bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
@@ -520,6 +521,7 @@
 
 ## Others 
 
+- [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
 - [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
 - [ewwhite/zfs-ha](https://github.com/ewwhite/zfs-ha) - ZFS High-Availability NAS
 - [oxda/usb-cereal](https://github.com/oxda/usb-cereal) - USB-Cereal is a powerful, fully open source development tool that simplifies testing, development, debugging, and manufacturing of devices that utilize USB-C. Using USB-C’s extended capabilities this 
