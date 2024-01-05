@@ -937,6 +937,8 @@
 
 ## others 
 
+- [openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
+- [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
 - [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [damicon/zfswatcher](https://github.com/damicon/zfswatcher) - ZFS pool monitoring and notification daemon
