@@ -938,6 +938,7 @@
 
 ## others 
 
+- [sipeed/LonganPi-3H-SDK](https://github.com/sipeed/LonganPi-3H-SDK) - LonganPi 3H SDK
 - [openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 - [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
 - [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
