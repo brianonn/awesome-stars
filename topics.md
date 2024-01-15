@@ -1389,7 +1389,7 @@
 
 ## rust 
 
-- [nokyan/resources](https://github.com/nokyan/resources) - Monitor your system resources and processes
+- [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
