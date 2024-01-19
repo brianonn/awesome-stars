@@ -405,7 +405,7 @@
 - [dundalek/kmdoc](https://github.com/dundalek/kmdoc) - KMDoc is a software for an intelligent representation of knowledge useful for quick learning and browsing.
 - [FydeOS/kiosk-demo-app](https://github.com/FydeOS/kiosk-demo-app) - 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [xiam/go-playground](https://github.com/xiam/go-playground) - Your own Go Playground (for demos and workshops)
 - [buggerjs/bugger-daemon](https://github.com/buggerjs/bugger-daemon) - Brings buggers together
 - [johnshearing/MyEtherWalletOffline](https://github.com/johnshearing/MyEtherWalletOffline) - Fork of MyEtherWallet with Additions for Offline Use With An Air-Gapped Raspberry Pi
@@ -696,7 +696,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ferrous-systems/rust-exercises](https://github.com/ferrous-systems/rust-exercises) - Exercises for learning Rust, by Ferrous Systems
 - [zwpaper/dilu](https://github.com/zwpaper/dilu) - A colorful CLI client with icons for accessing data via OpenDAL
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
