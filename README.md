@@ -819,7 +819,7 @@
 
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [matfish2/vue-stripe](https://github.com/matfish2/vue-stripe) - Vue.js 2 Stripe checkout component
-- [tmm/notational](https://github.com/tmm/notational) - Real-time notes app built with Vue.js
+- [awkweb/notational](https://github.com/awkweb/notational) - Real-time notes app built with Vue.js
 
 
 ## License
