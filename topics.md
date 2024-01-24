@@ -1177,7 +1177,7 @@
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [tmm/notational](https://github.com/tmm/notational) - Real-time notes app built with Vue.js
+- [awkweb/notational](https://github.com/awkweb/notational) - Real-time notes app built with Vue.js
 - [plone/ansible-playbook](https://github.com/plone/ansible-playbook) - An Ansible playbook for automated deployment of full-stack Plone servers.
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
