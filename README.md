@@ -70,6 +70,7 @@
 
 ## C 
 
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
