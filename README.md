@@ -380,6 +380,7 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [vladmihalcea/hypersistence-tsid](https://github.com/vladmihalcea/hypersistence-tsid) - A Java library for generating Time-Sorted Unique Identifiers (TSID).
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
