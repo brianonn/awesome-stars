@@ -5,11 +5,13 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -155,6 +157,10 @@
 - [website](#website)
 - [windows](#windows)
 
+## ai 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+
 ## android 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -194,6 +200,10 @@
 - [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station) - T12 Quick Heating Soldering Station
 - [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [wagiminator/ATtiny85-TinyLoad](https://github.com/wagiminator/ATtiny85-TinyLoad) - Electronic Dummy Load
+
+## artificial-intelligence 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
 ## atom 
 
@@ -724,7 +734,6 @@
 - [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
 ## ipfs 
 
@@ -1069,7 +1078,7 @@
 - [XanderYe/tmm-cracker](https://github.com/XanderYe/tmm-cracker) - tmm(tinymediamanager)4.0.6破解
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [gentlemanautomaton/smb](https://github.com/gentlemanautomaton/smb) - Server Message Block version 2 and 3 protocol library for Go
-- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for L
+- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [MediaBrowser/Wiki](https://github.com/MediaBrowser/Wiki) - The Emby Wiki
 - [Technololist/golang-http-windows-service](https://github.com/Technololist/golang-http-windows-service) - Golang HTTP Server on Windows Service
 - [bobgilmore/githooks](https://github.com/bobgilmore/githooks) - My personal githooks, which help me avoid silly or obvious mistakes.
@@ -1150,7 +1159,7 @@
 - [fredrik/nodejs-multipart-form-upload](https://github.com/fredrik/nodejs-multipart-form-upload) - hey, what?
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [afeld/mustachio](https://github.com/afeld/mustachio) - automatic mustachifying of any image
 - [wking-io/elm-live](https://github.com/wking-io/elm-live) - ⚡ A flexible dev server for Elm. Live reload included.
