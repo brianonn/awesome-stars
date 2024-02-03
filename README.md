@@ -802,6 +802,7 @@
 
 ## Verilog 
 
+- [revaldinho/cpc_ram_expansion](https://github.com/revaldinho/cpc_ram_expansion) - A series of Amstrad CPC PCBs including a backplane, ROM and 512K and 1MByte RAM expansions.
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
 
 ## Vim Script 
