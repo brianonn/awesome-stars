@@ -730,7 +730,7 @@
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+- [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [zeroflag/punyforth](https://github.com/zeroflag/punyforth) - Forth inspired programming language for the ESP8266
 - [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
