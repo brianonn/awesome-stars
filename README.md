@@ -502,6 +502,7 @@
 ## Nix 
 
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 
 ## Nunjucks 
 
@@ -749,7 +750,6 @@
 - [willgrz/wBak-Autobackup-ZFS](https://github.com/willgrz/wBak-Autobackup-ZFS) - 
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [dockito/vault](https://github.com/dockito/vault) - 🔐 Secret store to be used on Docker image building
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [twe4ked/catacomb](https://github.com/twe4ked/catacomb) - Encrypts files using public keys from GitHub
 - [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
 - [jedda/Counterpart](https://github.com/jedda/Counterpart) - A wrapper script for rsync 3.0+ that is capable of producing a bootable clone of a live Mac OS X system. Features extensive error handling, automatic logging, stats generation, and a companion Nagios 
