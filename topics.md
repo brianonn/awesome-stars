@@ -160,7 +160,7 @@
 
 ## ai 
 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## android 
 
@@ -204,7 +204,7 @@
 
 ## artificial-intelligence 
 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## atom 
 
@@ -416,7 +416,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## django 
 
@@ -450,7 +450,7 @@
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [hopsoft/docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
 
 ## documentation 
@@ -817,7 +817,7 @@
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [Boostport/kubernetes-vault](https://github.com/Boostport/kubernetes-vault) - Use Vault to store secrets for Kubernetes!
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## language 
 
@@ -1514,7 +1514,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## shell 
 
