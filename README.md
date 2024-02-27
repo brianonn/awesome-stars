@@ -503,7 +503,7 @@
 ## Nix 
 
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## Nunjucks 
 
