@@ -597,6 +597,7 @@
 
 ## Python 
 
+- [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - A simple Gtk4 application to read scrolling text from your screen
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [jeffersonmourak/pyTerm](https://github.com/jeffersonmourak/pyTerm) - A terminal client for linux. powered with python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
