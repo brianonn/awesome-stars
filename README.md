@@ -245,6 +245,7 @@
 
 ## Go 
 
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [damicon/zfswatcher](https://github.com/damicon/zfswatcher) - ZFS pool monitoring and notification daemon
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
