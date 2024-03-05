@@ -351,7 +351,6 @@
 
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [ReimuNotMoe/Marisa](https://github.com/ReimuNotMoe/Marisa) - A lightening fast, express-like C++ web server framework
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
@@ -487,7 +486,6 @@
 
 ## emulator 
 
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
 - [yasp/yasp](https://github.com/yasp/yasp) - yasp is a fully functional web-based assembler development environment, including a real assembler, emulator and debugger.
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
@@ -843,6 +841,7 @@
 
 ## linux 
 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - A simple Gtk4 application to read scrolling text from your screen
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
