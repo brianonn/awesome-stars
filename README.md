@@ -146,7 +146,6 @@
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
 - [aaronsgiles/ymfm](https://github.com/aaronsgiles/ymfm) - BSD-licensed Yamaha FM sound cores (OPM, OPN, OPL, and others)
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [ReimuNotMoe/Marisa](https://github.com/ReimuNotMoe/Marisa) - A lightening fast, express-like C++ web server framework
 - [unobtanium-official/Unobtanium](https://github.com/unobtanium-official/Unobtanium) - Colder than Gold, Shinier than Silver. It's Unobtanium. https://unobtanium.uno
@@ -529,6 +528,7 @@
 
 ## Others 
 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
 - [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
 - [ewwhite/zfs-ha](https://github.com/ewwhite/zfs-ha) - ZFS High-Availability NAS
