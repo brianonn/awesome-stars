@@ -1435,6 +1435,7 @@
 
 ## rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -1530,6 +1531,7 @@
 
 ## shell 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
