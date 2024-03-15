@@ -692,7 +692,7 @@
 - [bobgilmore/githooks](https://github.com/bobgilmore/githooks) - My personal githooks, which help me avoid silly or obvious mistakes.
 - [oehme/travis-secrets-setter](https://github.com/oehme/travis-secrets-setter) - Set all my env variables just once and replicate them over all repos
 - [afeld/mustachio](https://github.com/afeld/mustachio) - automatic mustachifying of any image
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [schacon/gitbook](https://github.com/schacon/gitbook) - Git Community Book Source
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
