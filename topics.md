@@ -985,6 +985,7 @@
 
 ## others 
 
+- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [revaldinho/cpc_ram_expansion](https://github.com/revaldinho/cpc_ram_expansion) - A series of Amstrad CPC PCBs including a backplane, ROM and 512K and 1MByte RAM expansions.
