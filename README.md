@@ -377,6 +377,7 @@
 
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## Haxe 
 
@@ -506,8 +507,8 @@
 
 ## Nix 
 
+- [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## Nunjucks 
 
@@ -740,6 +741,7 @@
 
 ## Shell 
 
+- [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [sipeed/LonganPi-3H-SDK](https://github.com/sipeed/LonganPi-3H-SDK) - LonganPi 3H SDK
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
