@@ -985,6 +985,8 @@
 
 ## others 
 
+- [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
+- [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
