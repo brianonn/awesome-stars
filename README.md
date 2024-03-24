@@ -702,6 +702,7 @@
 
 ## Rust 
 
+- [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network bandwidth and latency tester.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
