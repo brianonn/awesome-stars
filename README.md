@@ -54,6 +54,7 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -811,6 +812,10 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+
+## VHDL 
+
+- [brimdavis/yard-1](https://github.com/brimdavis/yard-1) - Small synthesizable 32 bit processor core, intended for embedded FPGA design
 
 ## Verilog 
 
