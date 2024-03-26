@@ -985,6 +985,7 @@
 
 ## others 
 
+- [brimdavis/yard-1](https://github.com/brimdavis/yard-1) - Small synthesizable 32 bit processor core, intended for embedded FPGA design
 - [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network bandwidth and latency tester.
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
