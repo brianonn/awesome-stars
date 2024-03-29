@@ -224,6 +224,7 @@
 
 ## Emacs Lisp 
 
+- [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [nicferrier/elmarmalade](https://github.com/nicferrier/elmarmalade) - emacs-lisp version of the marmalade package repository
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
@@ -377,6 +378,7 @@
 
 ## HTML 
 
+- [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
