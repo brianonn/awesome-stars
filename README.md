@@ -182,7 +182,7 @@
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Andersbakken/rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
 - [shamblett/amqp_client](https://github.com/shamblett/amqp_client) - An AMQP client library for Dart based on Apache QPID using Native Extensions
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 
 ## CSS 
