@@ -676,7 +676,7 @@
 - [saferoom-app/saferoomlinux](https://github.com/saferoom-app/saferoomlinux) - Encryption extension to cloud apps
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [sethtrain/django-git](https://github.com/sethtrain/django-git) - A simple gitweb replacement built with Django
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
 - [paulmillr/LiveScript.tmbundle](https://github.com/paulmillr/LiveScript.tmbundle) - A TextMate, Chocolat and Sublime Text bundle for LiveScript
