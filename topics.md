@@ -1275,7 +1275,7 @@
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [blynn/nex](https://github.com/blynn/nex) - Lexer for Go
 - [shamblett/amqp_client](https://github.com/shamblett/amqp_client) - An AMQP client library for Dart based on Apache QPID using Native Extensions
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files
 - [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
