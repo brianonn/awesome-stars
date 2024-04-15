@@ -220,6 +220,7 @@
 
 ## automation 
 
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 
@@ -874,6 +875,7 @@
 
 ## lua 
 
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 
