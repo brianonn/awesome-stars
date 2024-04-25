@@ -54,6 +54,7 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
@@ -279,7 +280,7 @@
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
@@ -553,7 +554,6 @@
 - [profdc9/PowerAmpAudio](https://github.com/profdc9/PowerAmpAudio) - Power Amplifier based on Michael Chua's C300 amplifier
 - [profdc9/HighVoltageOpAmp](https://github.com/profdc9/HighVoltageOpAmp) - A discrete high voltage op amp that uses 5551/5401
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
-- [wusyong/resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst. Mirror to https://typst.app/project/rVVa3y9vXemUKyvNKnabKV
 - [FydeOS/openFyde](https://github.com/FydeOS/openFyde) - Chromium OS with or without Google
 - [danielenriquez59/intrinsicvaluecalculator](https://github.com/danielenriquez59/intrinsicvaluecalculator) - 
 - [danielenriquez59/stock_template](https://github.com/danielenriquez59/stock_template) - stock template
@@ -820,6 +820,10 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+
+## Typst 
+
+- [wusyong/resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst. Mirror to https://typst.app/project/rVVa3y9vXemUKyvNKnabKV
 
 ## VHDL 
 
