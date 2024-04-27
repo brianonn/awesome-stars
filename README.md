@@ -104,7 +104,6 @@
 - [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
 - [bradfa/flashbench](https://github.com/bradfa/flashbench) - Testing tool for managed flash memory devices, see the 'dev' branch for updates which aren't yet "upstream" and report your results to the flashbench-results mailing list -&gt;
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-- [Coldcard/firmware](https://github.com/Coldcard/firmware) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 - [andrei7c4/weatherdisplay](https://github.com/andrei7c4/weatherdisplay) - ESP8266 based weather display with e-ink screen
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [cloudshark/cshark](https://github.com/cloudshark/cshark) - OpenWrt integration
@@ -647,6 +646,7 @@
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [Coldcard/firmware](https://github.com/Coldcard/firmware) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 - [salesforce/hassh](https://github.com/salesforce/hassh) - HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a sma
 - [cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and CTF players.
 - [superczar/home-assistant](https://github.com/superczar/home-assistant) - Configuration and setup details for Home-assistant
