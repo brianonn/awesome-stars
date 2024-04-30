@@ -657,7 +657,7 @@
 - [openwisp/django-x509](https://github.com/openwisp/django-x509) - Reusable django app implementing x509 PKI certificates management
 - [univ-of-utah-marriott-library-apple/privacy_services_manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - A single management utility to administer Location Services, Contacts requests, Accessibility, and iCloud access in Apple's OS X.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [antoiner77/caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
+- [antoinerrr/caddy-ansible](https://github.com/antoinerrr/caddy-ansible) - Ansible playbook for caddy
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 - [fionafibration/owoScript](https://github.com/fionafibration/owoScript) - An OwO based, stack-oriented programming language
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
