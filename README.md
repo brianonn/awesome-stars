@@ -827,6 +827,7 @@
 
 ## VHDL 
 
+- [howerj/forth-cpu](https://github.com/howerj/forth-cpu) - A Forth CPU and System on a Chip, based on the J1, written in VHDL
 - [brimdavis/yard-1](https://github.com/brimdavis/yard-1) - Small synthesizable 32 bit processor core, intended for embedded FPGA design
 
 ## Verilog 
