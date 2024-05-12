@@ -999,6 +999,7 @@
 
 ## others 
 
+- [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga) - Taiga is a free and open-source project management for cross-functional agile teams.
 - [TobleMiner/PCIe-breakout](https://github.com/TobleMiner/PCIe-breakout) - PCIe to .1 inch header breakout
 - [RicardoEPRodrigues/magicmouse-hid](https://github.com/RicardoEPRodrigues/magicmouse-hid) - Magic Mouse 2 driver for Linux.
 - [adakoda/android-screen-monitor](https://github.com/adakoda/android-screen-monitor) - Android Screen Monitor
