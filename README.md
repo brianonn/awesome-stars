@@ -538,6 +538,7 @@
 
 ## Others 
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [TobleMiner/PCIe-breakout](https://github.com/TobleMiner/PCIe-breakout) - PCIe to .1 inch header breakout
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
