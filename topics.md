@@ -1005,6 +1005,7 @@
 
 ## others 
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga) - Taiga is a free and open-source project management for cross-functional agile teams.
 - [TobleMiner/PCIe-breakout](https://github.com/TobleMiner/PCIe-breakout) - PCIe to .1 inch header breakout
