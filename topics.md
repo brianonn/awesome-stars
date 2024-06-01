@@ -629,6 +629,7 @@
 
 ## golang 
 
+- [dailymuse/gzap](https://github.com/dailymuse/gzap) - ⚡ Graylog integrated Zap  logger
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
