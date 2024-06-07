@@ -707,7 +707,6 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.
@@ -1114,6 +1113,7 @@
 - [unobtanium-official/Unobtanium](https://github.com/unobtanium-official/Unobtanium) - Colder than Gold, Shinier than Silver. It's Unobtanium. https://unobtanium.uno
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 - [pavel-kirienko/cpu-load-side-channel](https://github.com/pavel-kirienko/cpu-load-side-channel) - Side-channel file transfer between independent VMs or processes executed on the same physical host.
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [drandyhaas/haasmesh](https://github.com/drandyhaas/haasmesh) - Scripts and other files for the Haas Mesh OpenWRT system
 - [nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations) - Code for simulations on YouTube
 - [Breadstick-Innovations/M4-Breadstick](https://github.com/Breadstick-Innovations/M4-Breadstick) - A long and thin development board, designed to keep the number and length of jumper wires to a minimum. Runs Circuit Python on Microchip SAMD51G19A - Arduino in the works! Entered in Hackaday Prize 20
