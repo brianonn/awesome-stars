@@ -28,6 +28,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [LiveScript](#livescript)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -168,7 +169,6 @@
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -479,6 +479,10 @@
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
+
+## LLVM 
+
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 
 ## LiveScript 
 
