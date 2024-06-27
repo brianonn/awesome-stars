@@ -704,7 +704,6 @@
 
 ## Roff 
 
-- [FydeOS/chromium_os-vm-vmware](https://github.com/FydeOS/chromium_os-vm-vmware) - Build and run your Chromium OS on VMWare virtual machine client
 - [lkundrak/86asm.fth](https://github.com/lkundrak/86asm.fth) - Simple FORTH assembler for Intel 8086
 
 ## Ruby 
@@ -769,6 +768,7 @@
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [prabirshrestha/simple-ubuntu-installer](https://github.com/prabirshrestha/simple-ubuntu-installer) - simple encrypted zfs ubuntu installer
+- [FydeOS/chromium_os-vm-vmware](https://github.com/FydeOS/chromium_os-vm-vmware) - Build and run your Chromium OS on VMWare virtual machine client
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [JJGO/macOS-setup](https://github.com/JJGO/macOS-setup) - Script Collection to set up a new macOS install
