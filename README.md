@@ -314,7 +314,7 @@
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [contentful-labs/kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) - A Kubernetes operator to sync secrets from AWS Secrets Manager
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification
@@ -650,7 +650,7 @@
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
-- [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project
+- [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project.  Please direct merge proposals to https://code.launchpad.net/curtin
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [adam7/delugia-code](https://github.com/adam7/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
 - [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube) - Red Team K8S Adversary Emulation Based on kubectl
