@@ -61,7 +61,6 @@
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## ANTLR 
 
@@ -94,6 +93,7 @@
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
 - [andrewrk/zig-wasi](https://github.com/andrewrk/zig-wasi) - Minimal WASI interpreter
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -872,10 +872,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [matfish2/vue-stripe](https://github.com/matfish2/vue-stripe) - Vue.js 2 Stripe checkout component
 - [awkweb/notational](https://github.com/awkweb/notational) - Real-time notes app built with Vue.js
-
-## Zig 
-
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
