@@ -554,7 +554,6 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [TobleMiner/PCIe-breakout](https://github.com/TobleMiner/PCIe-breakout) - PCIe to .1 inch header breakout
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [wuxx/nanoCH32V203](https://github.com/wuxx/nanoCH32V203) - 
 - [abzman/small-useful-PCBs](https://github.com/abzman/small-useful-PCBs) - 
 - [ewwhite/zfs-ha](https://github.com/ewwhite/zfs-ha) - ZFS High-Availability NAS
@@ -768,6 +767,7 @@
 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [sipeed/LonganPi-3H-SDK](https://github.com/sipeed/LonganPi-3H-SDK) - LonganPi 3H SDK
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
