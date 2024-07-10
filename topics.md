@@ -1014,6 +1014,7 @@
 
 ## others 
 
+- [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [c4puter/motherboard](https://github.com/c4puter/motherboard) - 
 - [etherealjoy/openapi-generator](https://github.com/etherealjoy/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [pmerson/ADR-template](https://github.com/pmerson/ADR-template) - A md template for Architecture Decision Records (ADRs)
