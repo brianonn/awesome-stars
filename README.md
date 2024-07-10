@@ -78,6 +78,7 @@
 
 ## C 
 
+- [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [RicardoEPRodrigues/magicmouse-hid](https://github.com/RicardoEPRodrigues/magicmouse-hid) - Magic Mouse 2 driver for Linux.
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
