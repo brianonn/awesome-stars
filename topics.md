@@ -1008,6 +1008,8 @@
 
 ## others 
 
+- [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [syntasso/instruqt-kubecon](https://github.com/syntasso/instruqt-kubecon) - 
 - [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [c4puter/motherboard](https://github.com/c4puter/motherboard) - 
