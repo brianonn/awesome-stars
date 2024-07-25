@@ -77,6 +77,7 @@
 
 ## C 
 
+- [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
 - [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [RicardoEPRodrigues/magicmouse-hid](https://github.com/RicardoEPRodrigues/magicmouse-hid) - Magic Mouse 2 driver for Linux.
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
@@ -399,6 +400,7 @@
 
 ## Java 
 
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [etherealjoy/openapi-generator](https://github.com/etherealjoy/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [adakoda/android-screen-monitor](https://github.com/adakoda/android-screen-monitor) - Android Screen Monitor
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
