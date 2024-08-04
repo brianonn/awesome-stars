@@ -424,6 +424,7 @@
 
 ## JavaScript 
 
+- [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network bandwidth and latency tester.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -725,7 +726,6 @@
 
 ## Rust 
 
-- [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network bandwidth and latency tester.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
