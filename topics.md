@@ -77,6 +77,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -222,6 +223,7 @@
 
 ## automation 
 
+- [XaF/qolsysgw](https://github.com/XaF/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -747,6 +749,10 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
 
+## home-assistant 
+
+- [XaF/qolsysgw](https://github.com/XaF/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
+
 ## html 
 
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
@@ -1021,6 +1027,7 @@
 
 ## others 
 
+- [Wren6991/Hazard3](https://github.com/Wren6991/Hazard3) - 3-stage RV32IMACZb* processor with debug
 - [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [syntasso/instruqt-kubecon](https://github.com/syntasso/instruqt-kubecon) - 
