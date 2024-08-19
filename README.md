@@ -101,7 +101,7 @@
 - [dracut-crypt-ssh/dracut-crypt-ssh](https://github.com/dracut-crypt-ssh/dracut-crypt-ssh) - dracut initramfs module to start dropbear sshd during boot to unlock the root  filesystem with the (cryptsetup) LUKS passphrase remotely
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [sipeed/TinyMaix](https://github.com/sipeed/TinyMaix) - TinyMaix is a tiny inference library for microcontrollers (TinyML).
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations) - Code for simulations on YouTube
 - [slavaim/riscv-magenta](https://github.com/slavaim/riscv-magenta) - Magenta kernel port to RISC-V
