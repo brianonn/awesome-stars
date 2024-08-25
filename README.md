@@ -78,6 +78,7 @@
 
 ## C 
 
+- [rsanchovilla/SimH_cpanel](https://github.com/rsanchovilla/SimH_cpanel) - SimH simulator emulator fork with Control Panels and Visual devices. IBM 650, IBM NORC, IBM 701, IBM 360, SWTPC 6800, Ferranti Mark I, HP 2100
 - [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
 - [virtualsquare/vde-2](https://github.com/virtualsquare/vde-2) - 
 - [RicardoEPRodrigues/magicmouse-hid](https://github.com/RicardoEPRodrigues/magicmouse-hid) - Magic Mouse 2 driver for Linux.
@@ -181,7 +182,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [uNetworking/Containerize](https://github.com/uNetworking/Containerize) - Tool for creating minimal Docker containers
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
