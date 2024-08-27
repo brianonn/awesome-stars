@@ -535,6 +535,7 @@
 
 ## emulator 
 
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [rsanchovilla/SimH_cpanel](https://github.com/rsanchovilla/SimH_cpanel) - SimH simulator emulator fork with Control Panels and Visual devices. IBM 650, IBM NORC, IBM 701, IBM 360, SWTPC 6800, Ferranti Mark I, HP 2100
 - [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
 - [yasp/yasp](https://github.com/yasp/yasp) - yasp is a fully functional web-based assembler development environment, including a real assembler, emulator and debugger.
@@ -897,6 +898,7 @@
 
 ## linux 
 
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - A simple Gtk4 application to read scrolling text from your screen
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
@@ -1045,6 +1047,7 @@
 
 ## others 
 
+- [Andrew-M-C/go.objectid](https://github.com/Andrew-M-C/go.objectid) - Mongo object ID, but also supports 16-bytes length (32 bytes in string), which can be substitute of UUID
 - [Wren6991/Hazard3](https://github.com/Wren6991/Hazard3) - 3-stage RV32IMACZb* processor with debug
 - [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -1428,6 +1431,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
