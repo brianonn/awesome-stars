@@ -1046,6 +1046,7 @@
 
 ## others 
 
+- [darrenldl/docfd](https://github.com/darrenldl/docfd) - TUI multiline fuzzy document finder
 - [Andrew-M-C/go.objectid](https://github.com/Andrew-M-C/go.objectid) - Mongo object ID, but also supports 16-bytes length (32 bytes in string), which can be substitute of UUID
 - [Wren6991/Hazard3](https://github.com/Wren6991/Hazard3) - 3-stage RV32IMACZb* processor with debug
 - [datacute/Tiny4kOLED](https://github.com/datacute/Tiny4kOLED) - Library for an ATTiny85 to use an SSD1306 powered, double buffered, 128x32 pixel OLED, over I2C
