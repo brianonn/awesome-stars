@@ -235,6 +235,7 @@
 
 ## awesome 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [dennyzhang/kubernetes-yaml-templates](https://github.com/dennyzhang/kubernetes-yaml-templates) - Kubernetes Yaml Templates
 - [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [ghaiklor/awesome-internals](https://github.com/ghaiklor/awesome-internals) - A curated list of awesome resources and learning materials in the field of X internals
@@ -244,6 +245,7 @@
 
 ## awesome-list 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [ghaiklor/awesome-internals](https://github.com/ghaiklor/awesome-internals) - A curated list of awesome resources and learning materials in the field of X internals
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1046,6 +1048,8 @@
 
 ## others 
 
+- [45Drives/cockpit-zfs-manager](https://github.com/45Drives/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [zapier/prom-aggregation-gateway](https://github.com/zapier/prom-aggregation-gateway) - An aggregating push gateway for Prometheus
 - [darrenldl/docfd](https://github.com/darrenldl/docfd) - TUI multiline fuzzy document finder
 - [Andrew-M-C/go.objectid](https://github.com/Andrew-M-C/go.objectid) - Mongo object ID, but also supports 16-bytes length (32 bytes in string), which can be substitute of UUID
@@ -1068,7 +1072,7 @@
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [brimdavis/yard-1](https://github.com/brimdavis/yard-1) - Small synthesizable 32 bit processor core, intended for embedded FPGA design
-- [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network bandwidth and latency tester.
+- [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network throughput and latency tester.
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
@@ -1737,6 +1741,7 @@
 
 ## visual-studio-code 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 
 ## vue 
