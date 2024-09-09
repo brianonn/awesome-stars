@@ -23,6 +23,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haxe](#haxe)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -401,6 +402,10 @@
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
+## Handlebars 
+
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+
 ## Haxe 
 
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
@@ -740,6 +745,7 @@
 
 ## Rust 
 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network throughput and latency tester.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -873,6 +879,7 @@
 
 ## Vim Script 
 
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [jnurmine/Zenburn](https://github.com/jnurmine/Zenburn) - Zenburn is a low-contrast color scheme for Vim.
