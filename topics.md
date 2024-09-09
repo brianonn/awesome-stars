@@ -1049,6 +1049,8 @@
 
 ## others 
 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [45Drives/cockpit-zfs-manager](https://github.com/45Drives/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -1531,6 +1533,7 @@
 
 ## rust 
 
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
