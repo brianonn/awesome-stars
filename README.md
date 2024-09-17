@@ -185,7 +185,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [uNetworking/Containerize](https://github.com/uNetworking/Containerize) - Tool for creating minimal Docker containers
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -569,6 +569,7 @@
 
 ## Others 
 
+- [nikitarevenco/better-cli](https://github.com/nikitarevenco/better-cli) - Curated list of replacements for terminal tools
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [pmerson/ADR-template](https://github.com/pmerson/ADR-template) - A md template for Architecture Decision Records (ADRs)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
