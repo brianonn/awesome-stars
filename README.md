@@ -747,6 +747,7 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network throughput and latency tester.
