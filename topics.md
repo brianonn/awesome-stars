@@ -1054,6 +1054,7 @@
 
 ## others 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
