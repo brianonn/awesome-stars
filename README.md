@@ -7,6 +7,7 @@
 
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
+- [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -77,6 +78,10 @@
 - [c2d7fa/jonasforth](https://github.com/c2d7fa/jonasforth) - Forth interpreter written in bare-metal assembly running on UEFI. (Unfinished)
 - [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 - [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
+
+## BitBake 
+
+- [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 
 ## C 
 
@@ -845,6 +850,7 @@
 
 ## TypeScript 
 
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [canonical/lxd-ui](https://github.com/canonical/lxd-ui) - Easy and accessible container and virtual machine management. A browser interface for LXD
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
