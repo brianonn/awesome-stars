@@ -654,7 +654,7 @@
 - [nlohmann/swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 - [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga) - Taiga is a free and open-source project management for cross-functional agile teams.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - A simple Gtk4 application to read scrolling text from your screen
+- [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - Stay on track during speeches
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [jeffersonmourak/pyTerm](https://github.com/jeffersonmourak/pyTerm) - A terminal client for linux. powered with python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
