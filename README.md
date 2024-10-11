@@ -405,6 +405,7 @@
 ## HTML 
 
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -593,7 +594,6 @@
 - [profdc9/LinearPS](https://github.com/profdc9/LinearPS) - Linear constant constant/current constant voltage power supply PCB
 - [profdc9/PowerAmpAudio](https://github.com/profdc9/PowerAmpAudio) - Power Amplifier based on Michael Chua's C300 amplifier
 - [profdc9/HighVoltageOpAmp](https://github.com/profdc9/HighVoltageOpAmp) - A discrete high voltage op amp that uses 5551/5401
-- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [FydeOS/openFyde](https://github.com/FydeOS/openFyde) - Chromium OS with or without Google
 - [danielenriquez59/intrinsicvaluecalculator](https://github.com/danielenriquez59/intrinsicvaluecalculator) - 
 - [danielenriquez59/stock_template](https://github.com/danielenriquez59/stock_template) - stock template
