@@ -85,6 +85,7 @@
 
 ## C 
 
+- [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [rsanchovilla/SimH_cpanel](https://github.com/rsanchovilla/SimH_cpanel) - SimH simulator emulator fork with Control Panels and Visual devices. IBM 650, IBM NORC, IBM 701, IBM 360, SWTPC 6800, Ferranti Mark I, HP 2100
@@ -576,6 +577,7 @@
 
 ## Others 
 
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [nikitarevenco/better-cli](https://github.com/nikitarevenco/better-cli) - Curated list of replacements for terminal tools
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [pmerson/ADR-template](https://github.com/pmerson/ADR-template) - A md template for Architecture Decision Records (ADRs)
