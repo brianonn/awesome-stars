@@ -55,6 +55,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -476,7 +477,6 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [browserpass/browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
 - [cocoastorm/vue-paypal-checkout](https://github.com/cocoastorm/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
@@ -842,6 +842,10 @@
 - [jose-lpa/packer-debian_stable](https://github.com/jose-lpa/packer-debian_stable) - Packer configuration for building a Debian 8.0 VirtualBox image.
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+
+## Solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Svelte 
 
