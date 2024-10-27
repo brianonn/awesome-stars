@@ -161,6 +161,7 @@
 
 ## C++ 
 
+- [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source fil
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [linuxdeepin/xdg-desktop-portal-dde](https://github.com/linuxdeepin/xdg-desktop-portal-dde) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -382,7 +383,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [go-qml/qml](https://github.com/go-qml/qml) - QML support for the Go language
-- [glycerine/goq](https://github.com/glycerine/goq) - goq: a job queuing system written in go (golang).  "Pronounced Go-Queue. Don't Gawk at this!"
+- [glycerine/goq](https://github.com/glycerine/goq) - goq: a distributed job queuing system in Go (golang).  An "ultralight shell-script Kubernetes", if you like buzz words.
 - [Boostport/kubernetes-vault](https://github.com/Boostport/kubernetes-vault) - Use Vault to store secrets for Kubernetes!
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [google/blueprint](https://github.com/google/blueprint) - 
@@ -755,6 +756,7 @@
 
 ## Rust 
 
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
