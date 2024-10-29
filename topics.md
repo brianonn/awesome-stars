@@ -751,7 +751,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -765,6 +764,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [openwisp/django-x509](https://github.com/openwisp/django-x509) - Reusable django app implementing x509 PKI certificates management
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
@@ -1065,6 +1065,7 @@
 
 ## others 
 
+- [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source fil
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
@@ -1328,7 +1329,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [go-qml/qml](https://github.com/go-qml/qml) - QML support for the Go language
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
-- [glycerine/goq](https://github.com/glycerine/goq) - goq: a job queuing system written in go (golang).  "Pronounced Go-Queue. Don't Gawk at this!"
+- [glycerine/goq](https://github.com/glycerine/goq) - goq: a distributed job queuing system in Go (golang).  An "ultralight shell-script Kubernetes", if you like buzz words.
 - [vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077) - Various tools for testing RFC 5077
 - [sfromm/ansible-playbooks](https://github.com/sfromm/ansible-playbooks) - 
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
@@ -1556,6 +1557,7 @@
 
 ## rust 
 
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
