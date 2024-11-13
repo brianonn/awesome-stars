@@ -1086,6 +1086,7 @@
 
 ## others 
 
+- [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source fil
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
