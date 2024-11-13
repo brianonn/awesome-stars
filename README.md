@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [XaF/qolsysgw](https://github.com/XaF/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
