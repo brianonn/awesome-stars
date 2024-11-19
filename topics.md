@@ -747,6 +747,7 @@
 
 ## hacktoberfest 
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
@@ -888,6 +889,7 @@
 
 ## kubernetes 
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [dennyzhang/kubernetes-yaml-templates](https://github.com/dennyzhang/kubernetes-yaml-templates) - Kubernetes Yaml Templates
@@ -1086,6 +1088,7 @@
 
 ## others 
 
+- [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners.
 - [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
@@ -1166,7 +1169,7 @@
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [DanInvents/ToastyBoy](https://github.com/DanInvents/ToastyBoy) - ToastyBoy repository
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. Free for non-commercial use.
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
 - [dundalek/kmdoc](https://github.com/dundalek/kmdoc) - KMDoc is a software for an intelligent representation of knowledge useful for quick learning and browsing.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
