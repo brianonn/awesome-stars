@@ -418,6 +418,7 @@
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Handlebars 
 
@@ -632,7 +633,6 @@
 - [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - Blockchain and Identity
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jerry-D/SYMPL-GP-GPU-Compute-Engines](https://github.com/jerry-D/SYMPL-GP-GPU-Compute-Engines) - Single, dual, quad, eight, and sixteen-shader GP-GPU-Compute engines, along with 32-bit SYMPL RISC CPU and Coarse-Grained Scheduler, in open-source Verilog RTL for 32-bit single-precision floating-poi
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 
