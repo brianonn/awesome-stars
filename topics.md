@@ -397,6 +397,7 @@
 
 ## cryptography 
 
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [Coldcard/firmware](https://github.com/Coldcard/firmware) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1585,6 +1586,7 @@
 
 ## rust 
 
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
