@@ -87,6 +87,7 @@
 
 ## C 
 
+- [kizohi00/Esp-netHunter](https://github.com/kizohi00/Esp-netHunter) - A portable ESP8266-based device for Evil Twin and deauthentication attacks with customizable phishing pages.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [landley/toybox](https://github.com/landley/toybox) - toybox
@@ -531,6 +532,7 @@
 
 ## Lua 
 
+- [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
 - [CDSoft/upp](https://github.com/CDSoft/upp) - UPP is a minimalist and generic text preprocessor using Lua macros.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
