@@ -1090,6 +1090,8 @@
 
 ## others 
 
+- [kizohi00/Esp-netHunter](https://github.com/kizohi00/Esp-netHunter) - A portable ESP8266-based device for Evil Twin and deauthentication attacks with customizable phishing pages.
+- [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners.
 - [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
