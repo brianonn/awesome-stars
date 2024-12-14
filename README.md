@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [Roemer/gotaskr](https://github.com/Roemer/gotaskr) - A generic task runner for Go
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -562,7 +563,7 @@
 
 ## Nix 
 
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
 
