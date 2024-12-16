@@ -528,7 +528,7 @@
 
 ## dotfiles 
 
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
@@ -938,7 +938,7 @@
 ## linux 
 
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) - Stay on track during speeches
@@ -1090,6 +1090,7 @@
 
 ## others 
 
+- [Roemer/gotaskr](https://github.com/Roemer/gotaskr) - A generic task runner for Go
 - [kizohi00/Esp-netHunter](https://github.com/kizohi00/Esp-netHunter) - A portable ESP8266-based device for Evil Twin and deauthentication attacks with customizable phishing pages.
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
