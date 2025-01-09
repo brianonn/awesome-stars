@@ -464,6 +464,7 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [dundalek/kmdoc](https://github.com/dundalek/kmdoc) - KMDoc is a software for an intelligent representation of knowledge useful for quick learning and browsing.
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [FydeOS/kiosk-demo-app](https://github.com/FydeOS/kiosk-demo-app) - 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -594,7 +595,7 @@
 ## Others 
 
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [NikitaRevenco/better-cli](https://github.com/NikitaRevenco/better-cli) - Curated list of replacements for terminal tools
+- [nik-rev/better-cli](https://github.com/nik-rev/better-cli) - Curated list of replacements for terminal tools
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [pmerson/ADR-template](https://github.com/pmerson/ADR-template) - A md template for Architecture Decision Records (ADRs)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
@@ -887,7 +888,6 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
