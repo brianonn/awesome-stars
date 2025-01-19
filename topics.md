@@ -232,7 +232,7 @@
 
 ## automation 
 
-- [XaF/qolsysgw](https://github.com/XaF/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
+- [xaf/qolsysgw](https://github.com/xaf/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -799,7 +799,7 @@
 
 ## home-assistant 
 
-- [XaF/qolsysgw](https://github.com/XaF/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
+- [xaf/qolsysgw](https://github.com/xaf/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel
 
 ## html 
 
