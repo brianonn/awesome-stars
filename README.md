@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [Roemer/gotaskr](https://github.com/Roemer/gotaskr) - A generic task runner for Go
