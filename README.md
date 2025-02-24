@@ -120,7 +120,7 @@
 - [dracut-crypt-ssh/dracut-crypt-ssh](https://github.com/dracut-crypt-ssh/dracut-crypt-ssh) - dracut initramfs module to start dropbear sshd during boot to unlock the root  filesystem with the (cryptsetup) LUKS passphrase remotely
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [sipeed/TinyMaix](https://github.com/sipeed/TinyMaix) - TinyMaix is a tiny inference library for microcontrollers (TinyML).
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations) - Code for simulations on YouTube
 - [slavaim/riscv-magenta](https://github.com/slavaim/riscv-magenta) - Magenta kernel port to RISC-V
@@ -542,6 +542,7 @@
 
 ## Lua 
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
 - [CDSoft/upp](https://github.com/CDSoft/upp) - UPP is a minimalist and generic text preprocessor using Lua macros.
