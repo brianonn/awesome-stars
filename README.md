@@ -202,7 +202,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [uNetworking/Containerize](https://github.com/uNetworking/Containerize) - Tool for creating minimal Docker containers
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
