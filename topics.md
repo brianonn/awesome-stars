@@ -155,6 +155,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -1373,7 +1374,7 @@
 - [awkweb/notational](https://github.com/awkweb/notational) - Real-time notes app built with Vue.js
 - [plone/ansible-playbook](https://github.com/plone/ansible-playbook) - An Ansible playbook for automated deployment of full-stack Plone servers.
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [ccelio/riscv-boom-doc](https://github.com/ccelio/riscv-boom-doc) - Documentation for the BOOM processor
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
@@ -1784,6 +1785,10 @@
 - [jetstack/terraform-google-gke-cluster](https://github.com/jetstack/terraform-google-gke-cluster) - A Terraform module to create a best-practise Google Kubernetes Engine (GKE) cluster.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
+
+## trading 
+
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## twitter 
 
