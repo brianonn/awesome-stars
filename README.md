@@ -190,7 +190,6 @@
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station) - T12 Quick Heating Soldering Station
 - [domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc) - openwrt CC with Domino/GL patches
-- [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [wagiminator/ATtiny85-TinyLoad](https://github.com/wagiminator/ATtiny85-TinyLoad) - Electronic Dummy Load
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
@@ -729,6 +728,7 @@
 - [superczar/home-assistant](https://github.com/superczar/home-assistant) - Configuration and setup details for Home-assistant
 - [devicetree-org/devicetree-specification](https://github.com/devicetree-org/devicetree-specification) - Devicetree Specification document source files
 - [niemeyer/hsandbox](https://github.com/niemeyer/hsandbox) - Hacking Sandbox: Multi-language interactive edit [&gt; compile] &gt; run hacking and experimenting tool.
+- [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
 - [rockstor/rockstor-core](https://github.com/rockstor/rockstor-core) - Linux/BTRFS based Network Attached Storage(NAS)
 - [openwisp/django-x509](https://github.com/openwisp/django-x509) - Reusable django app implementing x509 PKI certificates management
