@@ -275,6 +275,7 @@
 
 ## Go 
 
+- [kreuzwerker/yess](https://github.com/kreuzwerker/yess) - yess enables splitting secrets into shares using a Yubikey-based threshold schema
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [dgryski/go-yubiauth](https://github.com/dgryski/go-yubiauth) - Yubikey Authorization Server
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -681,6 +682,7 @@
 
 ## Python 
 
+- [ace0/q](https://github.com/ace0/q) - Manage an unseal key by a quorum of Yubikey tokens
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [C2SP/C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
