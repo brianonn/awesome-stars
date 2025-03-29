@@ -1097,6 +1097,8 @@
 
 ## others 
 
+- [ace0/q](https://github.com/ace0/q) - Manage an unseal key by a quorum of Yubikey tokens
+- [kreuzwerker/yess](https://github.com/kreuzwerker/yess) - yess enables splitting secrets into shares using a Yubikey-based threshold schema
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
