@@ -7,6 +7,7 @@
 
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
@@ -82,6 +83,10 @@
 - [c2d7fa/jonasforth](https://github.com/c2d7fa/jonasforth) - Forth interpreter written in bare-metal assembly running on UEFI. (Unfinished)
 - [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 - [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
+
+## Astro 
+
+- [kinsta/hello-world-astro](https://github.com/kinsta/hello-world-astro) - An example of how to set your Astro application up to enable deployment on Kinsta App Hosting services.
 
 ## BitBake 
 
