@@ -1388,7 +1388,7 @@
 - [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - Blockchain and Identity
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 - [kwkroeger/smem](https://github.com/kwkroeger/smem) - Smem memory reporting tool for Python 3
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [uNetworking/Containerize](https://github.com/uNetworking/Containerize) - Tool for creating minimal Docker containers
 - [gdotdesign/elm-ui-examples](https://github.com/gdotdesign/elm-ui-examples) - Examples applications for Elm-UI
 - [250bpm/sp-userland](https://github.com/250bpm/sp-userland) - 
