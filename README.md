@@ -439,7 +439,7 @@
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Handlebars 
