@@ -774,7 +774,6 @@
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [sethtrain/django-git](https://github.com/sethtrain/django-git) - A simple gitweb replacement built with Django
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
-- [paulmillr/LiveScript.tmbundle](https://github.com/paulmillr/LiveScript.tmbundle) - A TextMate, Chocolat and Sublime Text bundle for LiveScript
 - [python-ivi/python-ivi](https://github.com/python-ivi/python-ivi) - A Python implementation of the Interchangeable Virtual Instrument standard.
 - [phoenix2/phoenix](https://github.com/phoenix2/phoenix) - Phoenix Bitcoin Miner
 
