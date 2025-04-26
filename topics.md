@@ -1462,7 +1462,6 @@
 - [jerry-D/SYMPL-GP-GPU-Compute-Engines](https://github.com/jerry-D/SYMPL-GP-GPU-Compute-Engines) - Single, dual, quad, eight, and sixteen-shader GP-GPU-Compute engines, along with 32-bit SYMPL RISC CPU and Coarse-Grained Scheduler, in open-source Verilog RTL for 32-bit single-precision floating-poi
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
 - [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
-- [paulmillr/LiveScript.tmbundle](https://github.com/paulmillr/LiveScript.tmbundle) - A TextMate, Chocolat and Sublime Text bundle for LiveScript
 - [gkz/LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds ma
 - [colinbdclark/osc.js](https://github.com/colinbdclark/osc.js) - An Open Sound Control (OSC) library for JavaScript that works in both the browser and Node.js
 - [iand/amberfell](https://github.com/iand/amberfell) - 
