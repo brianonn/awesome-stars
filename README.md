@@ -280,6 +280,7 @@
 
 ## Go 
 
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
