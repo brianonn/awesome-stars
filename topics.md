@@ -124,6 +124,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [project-management](#project-management)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -160,6 +161,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
@@ -495,6 +497,7 @@
 
 ## docker 
 
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
@@ -918,6 +921,7 @@
 
 ## kubernetes 
 
+- [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
@@ -1117,6 +1121,7 @@
 
 ## others 
 
+- [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [samos123/gke-node-ca-importer](https://github.com/samos123/gke-node-ca-importer) - 
 - [kinsta/hello-world-astro](https://github.com/kinsta/hello-world-astro) - An example of how to set your Astro application up to enable deployment on Kinsta App Hosting services.
 - [ace0/q](https://github.com/ace0/q) - Manage an unseal key by a quorum of Yubikey tokens
@@ -1538,6 +1543,10 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
+## pwa 
+
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+
 ## python 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1861,8 +1870,14 @@
 
 ## ubuntu 
 
+- [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
 - [phpv8/ppa-packaging](https://github.com/phpv8/ppa-packaging) - Semi-automated scripts for Ubuntu packaging
+
+## ui 
+
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 
 ## vim 
 
