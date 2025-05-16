@@ -12,6 +12,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -217,6 +218,10 @@
 - [shamblett/amqp_client](https://github.com/shamblett/amqp_client) - An AMQP client library for Dart based on Apache QPID using Native Extensions
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+
+## CMake 
+
+- [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## CSS 
 
