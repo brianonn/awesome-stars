@@ -95,6 +95,7 @@
 
 ## C 
 
+- [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [kizohi00/Esp-netHunter](https://github.com/kizohi00/Esp-netHunter) - A portable ESP8266-based device for Evil Twin and deauthentication attacks with customizable phishing pages.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
@@ -276,7 +277,7 @@
 
 ## Erlang 
 
-- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 
 ## Forth 
 
@@ -286,6 +287,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
