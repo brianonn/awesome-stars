@@ -72,6 +72,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -220,6 +221,7 @@
 
 ## arduino 
 
+- [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 - [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station) - T12 Quick Heating Soldering Station
 - [metriful/sensor](https://github.com/metriful/sensor) - Sensor by Metriful | Indoor environment monitoring | Documentation and code samples
 - [wagiminator/ATtiny85-TinyLoad](https://github.com/wagiminator/ATtiny85-TinyLoad) - Electronic Dummy Load
@@ -346,6 +348,7 @@
 
 ## cli 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -640,6 +643,10 @@
 
 - [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
 
+## gh-extension 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+
 ## git 
 
 - [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
@@ -653,10 +660,12 @@
 
 ## github 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
 
 ## go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -710,6 +719,7 @@
 
 ## golang 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -862,7 +872,7 @@
 
 ## iot 
 
-- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [zeroflag/punyforth](https://github.com/zeroflag/punyforth) - Forth inspired programming language for the ESP8266
@@ -1818,6 +1828,7 @@
 
 ## terminal 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
