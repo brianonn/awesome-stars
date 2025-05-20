@@ -95,6 +95,7 @@
 
 ## C 
 
+- [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 - [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [kizohi00/Esp-netHunter](https://github.com/kizohi00/Esp-netHunter) - A portable ESP8266-based device for Evil Twin and deauthentication attacks with customizable phishing pages.
@@ -463,6 +464,7 @@
 
 ## Java 
 
+- [armageddon421/ResCan](https://github.com/armageddon421/ResCan) - Resistor ring value scanner
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [etherealjoy/openapi-generator](https://github.com/etherealjoy/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [adakoda/android-screen-monitor](https://github.com/adakoda/android-screen-monitor) - Android Screen Monitor
@@ -927,7 +929,7 @@
 - [canonical/lxd-ui](https://github.com/canonical/lxd-ui) - Easy and accessible container and virtual machine management. A browser interface for LXD
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
