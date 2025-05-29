@@ -453,7 +453,6 @@
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Handlebars 
 
@@ -788,6 +787,7 @@
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [sethtrain/django-git](https://github.com/sethtrain/django-git) - A simple gitweb replacement built with Django
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
 - [python-ivi/python-ivi](https://github.com/python-ivi/python-ivi) - A Python implementation of the Interchangeable Virtual Instrument standard.
 - [phoenix2/phoenix](https://github.com/phoenix2/phoenix) - Phoenix Bitcoin Miner
