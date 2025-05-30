@@ -68,7 +68,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YAML](#yaml)
-- [Zig](#zig)
 
 ## ANTLR 
 
@@ -122,6 +121,7 @@
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
 - [andrewrk/zig-wasi](https://github.com/andrewrk/zig-wasi) - Minimal WASI interpreter
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -985,10 +985,6 @@
 ## YAML 
 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-
-## Zig 
-
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
