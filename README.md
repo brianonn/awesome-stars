@@ -51,6 +51,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [Prolog](#prolog)
 - [Python](#python)
 - [QML](#qml)
 - [Roff](#roff)
@@ -702,6 +703,10 @@
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [plone/ansible-playbook](https://github.com/plone/ansible-playbook) - An Ansible playbook for automated deployment of full-stack Plone servers.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
+
+## Prolog 
+
+- [c0pperdragon/LumaCode](https://github.com/c0pperdragon/LumaCode) - Definition of the "LumaCode" signal standard with reference implementation
 
 ## Python 
 
