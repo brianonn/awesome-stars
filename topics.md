@@ -992,6 +992,7 @@
 
 ## linux 
 
+- [SmartFinn/eve-ng-integration](https://github.com/SmartFinn/eve-ng-integration) - integrates EVE-NG (aka UNetLab) with Linux desktop
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
@@ -1147,6 +1148,8 @@
 
 ## others 
 
+- [we-are-mono/firmware](https://github.com/we-are-mono/firmware) - Gateway firmware image builder
+- [c0pperdragon/LumaCode](https://github.com/c0pperdragon/LumaCode) - Definition of the "LumaCode" signal standard with reference implementation
 - [armageddon421/ResCan](https://github.com/armageddon421/ResCan) - Resistor ring value scanner
 - [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
