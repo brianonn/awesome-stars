@@ -91,6 +91,7 @@
 
 ## BitBake 
 
+- [we-are-mono/firmware](https://github.com/we-are-mono/firmware) - Gateway firmware image builder
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 
 ## C 
@@ -710,6 +711,7 @@
 
 ## Python 
 
+- [SmartFinn/eve-ng-integration](https://github.com/SmartFinn/eve-ng-integration) - integrates EVE-NG (aka UNetLab) with Linux desktop
 - [ace0/q](https://github.com/ace0/q) - Manage an unseal key by a quorum of Yubikey tokens
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [C2SP/C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project
