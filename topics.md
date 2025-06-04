@@ -811,7 +811,7 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -983,7 +983,7 @@
 
 ## laravel 
 
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
 ## library 
@@ -1083,6 +1083,7 @@
 ## music 
 
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## mysql 
 
@@ -1940,7 +1941,7 @@
 
 ## vue 
 
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [mcqua007/schwifty](https://github.com/mcqua007/schwifty) - Schwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get schwifty!
 - [cocoastorm/vue-paypal-checkout](https://github.com/cocoastorm/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout
 - [matfish2/vue-stripe](https://github.com/matfish2/vue-stripe) - Vue.js 2 Stripe checkout component
