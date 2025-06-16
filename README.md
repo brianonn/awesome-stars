@@ -96,6 +96,7 @@
 
 ## C 
 
+- [rurban/qemu-stm32](https://github.com/rurban/qemu-stm32) - Experimental QEMU mirror for more Cortex-M and atmel boards, rebased onto upstream. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored
 - [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 - [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
@@ -326,7 +327,7 @@
 - [damicon/zfswatcher](https://github.com/damicon/zfswatcher) - ZFS pool monitoring and notification daemon
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
