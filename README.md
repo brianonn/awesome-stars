@@ -124,7 +124,7 @@
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [emersion/mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
 - [andrewrk/zig-wasi](https://github.com/andrewrk/zig-wasi) - Minimal WASI interpreter
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -939,7 +939,7 @@
 
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [canonical/lxd-ui](https://github.com/canonical/lxd-ui) - Easy and accessible container and virtual machine management. A browser interface for LXD
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
