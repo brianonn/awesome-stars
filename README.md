@@ -96,6 +96,7 @@
 
 ## C 
 
+- [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 - [rurban/qemu-stm32](https://github.com/rurban/qemu-stm32) - Experimental QEMU mirror for more Cortex-M and atmel boards, rebased onto upstream. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored
 - [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 - [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
@@ -716,6 +717,7 @@
 
 ## Python 
 
+- [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [SASUKE-DUCK/dovi-to-hdr-converter](https://github.com/SASUKE-DUCK/dovi-to-hdr-converter) - 
 - [omribahumi/libvirt_metadata_api](https://github.com/omribahumi/libvirt_metadata_api) - Libvirt EC2 compatible metadata API
 - [SmartFinn/eve-ng-integration](https://github.com/SmartFinn/eve-ng-integration) - integrates EVE-NG (aka UNetLab) with Linux desktop
