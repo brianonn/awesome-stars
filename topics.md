@@ -1175,6 +1175,7 @@
 
 ## others 
 
+- [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 - [nukeykt/Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - Roland SC-55 series emulation
 - [rurban/qemu-stm32](https://github.com/rurban/qemu-stm32) - Experimental QEMU mirror for more Cortex-M and atmel boards, rebased onto upstream. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
@@ -1616,6 +1617,7 @@
 
 ## python 
 
+- [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
