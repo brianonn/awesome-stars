@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [nukeykt/Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - Roland SC-55 series emulation
 - [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source fil
