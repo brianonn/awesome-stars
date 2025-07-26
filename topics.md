@@ -559,7 +559,6 @@
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [hopsoft/docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
 
 ## documentation 
