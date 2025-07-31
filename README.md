@@ -450,6 +450,7 @@
 
 ## HCL 
 
+- [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
 - [jetstack/terraform-google-gke-cluster](https://github.com/jetstack/terraform-google-gke-cluster) - A Terraform module to create a best-practise Google Kubernetes Engine (GKE) cluster.
 - [jagonzalr/go-lambda-terraform-setup](https://github.com/jagonzalr/go-lambda-terraform-setup) - Setup a Go Lambda function with Terraform
 - [devopsjourney1/localstack-101](https://github.com/devopsjourney1/localstack-101) - 
@@ -820,6 +821,7 @@
 
 ## Ruby 
 
+- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [fgrehm/vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [bobgilmore/githooks](https://github.com/bobgilmore/githooks) - My personal githooks, which help me avoid silly or obvious mistakes.
@@ -882,6 +884,7 @@
 
 ## Shell 
 
+- [kube/sf-mono-ligaturized](https://github.com/kube/sf-mono-ligaturized) - San Francisco Mono Font with Ligatures
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 - [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
