@@ -121,6 +121,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [opengl](#opengl)
@@ -1185,6 +1186,10 @@
 - [ura14h/Blesniffer](https://github.com/ura14h/Blesniffer) - A Bluetooth LE sniffer for CC2540 USB dongle and Mac.
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 
+## obsidian-md 
+
+- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
+
 ## open-source 
 
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
@@ -1286,7 +1291,6 @@
 - [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network throughput and latency tester.
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
-- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [revaldinho/cpc_ram_expansion](https://github.com/revaldinho/cpc_ram_expansion) - A series of Amstrad CPC PCBs including a backplane, ROM and 512K and 1MByte RAM expansions.
