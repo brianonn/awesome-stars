@@ -1221,6 +1221,7 @@
 
 ## others 
 
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
 - [kube/sf-mono-ligaturized](https://github.com/kube/sf-mono-ligaturized) - San Francisco Mono Font with Ligatures
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
