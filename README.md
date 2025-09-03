@@ -97,6 +97,7 @@
 
 ## C 
 
+- [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 - [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 - [rurban/qemu-stm32](https://github.com/rurban/qemu-stm32) - Experimental QEMU mirror for more Cortex-M and atmel boards, rebased onto upstream. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored
 - [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
