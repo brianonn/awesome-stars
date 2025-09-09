@@ -106,6 +106,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [login](#login)
 - [lua](#lua)
 - [mac](#mac)
@@ -189,6 +190,7 @@
 
 ## ai 
 
+- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -360,6 +362,7 @@
 
 ## chatgpt 
 
+- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 
 ## chrome 
@@ -1088,6 +1091,10 @@
 - [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
+## llm 
+
+- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+
 ## login 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
@@ -1668,6 +1675,7 @@
 
 ## python 
 
+- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
