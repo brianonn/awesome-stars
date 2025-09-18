@@ -122,6 +122,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [opencv](#opencv)
@@ -1193,6 +1194,10 @@
 - [ura14h/Blesniffer](https://github.com/ura14h/Blesniffer) - A Bluetooth LE sniffer for CC2540 USB dongle and Mac.
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 
+## obsidian 
+
+- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
+
 ## obsidian-md 
 
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
@@ -1228,6 +1233,7 @@
 
 ## others 
 
+- [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) - Microsoft BASIC for 6502 Microprocessor - Version 1.1
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
@@ -1955,7 +1961,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
