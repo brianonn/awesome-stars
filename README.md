@@ -587,7 +587,6 @@
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
 - [CDSoft/upp](https://github.com/CDSoft/upp) - UPP is a minimalist and generic text preprocessor using Lua macros.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## MDX 
 
@@ -689,6 +688,7 @@
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
 - [jerry-D/SYMPL-GP-GPU-Compute-Engines](https://github.com/jerry-D/SYMPL-GP-GPU-Compute-Engines) - Single, dual, quad, eight, and sixteen-shader GP-GPU-Compute engines, along with 32-bit SYMPL RISC CPU and Coarse-Grained Scheduler, in open-source Verilog RTL for 32-bit single-precision floating-poi
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 
 ## PHP 
@@ -899,7 +899,7 @@
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [prabirshrestha/simple-ubuntu-installer](https://github.com/prabirshrestha/simple-ubuntu-installer) - simple encrypted zfs ubuntu installer
 - [FydeOS/chromium_os-vm-vmware](https://github.com/FydeOS/chromium_os-vm-vmware) - Build and run your Chromium OS on VMWare virtual machine client
