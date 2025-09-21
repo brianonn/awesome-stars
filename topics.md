@@ -1233,6 +1233,7 @@
 
 ## others 
 
+- [datto/dattobd](https://github.com/datto/dattobd) - kernel module for taking block-level snapshots and incremental backups of Linux block devices
 - [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) - Microsoft BASIC for 6502 Microprocessor - Version 1.1
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
