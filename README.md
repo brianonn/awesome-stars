@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
