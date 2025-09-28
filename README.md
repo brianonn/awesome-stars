@@ -98,6 +98,7 @@
 
 ## C 
 
+- [alexkrontiris/OpenSSL-x25519-key_exchange](https://github.com/alexkrontiris/OpenSSL-x25519-key_exchange) - Example of private, public key generation and shared secret derivation using OpenSSL and the x25519 curve.
 - [datto/dattobd](https://github.com/datto/dattobd) - kernel module for taking block-level snapshots and incremental backups of Linux block devices
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 - [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
