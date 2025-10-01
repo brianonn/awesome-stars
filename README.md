@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
@@ -590,6 +591,7 @@
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
 - [CDSoft/upp](https://github.com/CDSoft/upp) - UPP is a minimalist and generic text preprocessor using Lua macros.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
 ## MDX 
 
@@ -691,7 +693,6 @@
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
 - [jerry-D/SYMPL-GP-GPU-Compute-Engines](https://github.com/jerry-D/SYMPL-GP-GPU-Compute-Engines) - Single, dual, quad, eight, and sixteen-shader GP-GPU-Compute engines, along with 32-bit SYMPL RISC CPU and Coarse-Grained Scheduler, in open-source Verilog RTL for 32-bit single-precision floating-poi
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 
 ## PHP 
@@ -973,7 +974,7 @@
 - [Urigo/graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
+- [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 
