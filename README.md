@@ -51,7 +51,6 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
-- [Prolog](#prolog)
 - [Python](#python)
 - [QML](#qml)
 - [Roff](#roff)
@@ -722,10 +721,6 @@
 - [plone/ansible-playbook](https://github.com/plone/ansible-playbook) - An Ansible playbook for automated deployment of full-stack Plone servers.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 
-## Prolog 
-
-- [c0pperdragon/LumaCode](https://github.com/c0pperdragon/LumaCode) - Definition of the "LumaCode" signal standard with reference implementation
-
 ## Python 
 
 - [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
@@ -986,6 +981,7 @@
 
 ## VHDL 
 
+- [c0pperdragon/LumaCode](https://github.com/c0pperdragon/LumaCode) - Definition of the "LumaCode" signal standard with reference implementation
 - [howerj/forth-cpu](https://github.com/howerj/forth-cpu) - A Forth CPU and System on a Chip, based on the J1, written in VHDL
 - [brimdavis/yard-1](https://github.com/brimdavis/yard-1) - Small synthesizable 32 bit processor core, intended for embedded FPGA design
 
