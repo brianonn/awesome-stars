@@ -869,6 +869,7 @@
 ## hacktoberfest 
 
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
@@ -1252,6 +1253,7 @@
 
 ## others 
 
+- [ikoniaris/kippo-graph](https://github.com/ikoniaris/kippo-graph) - Visualize statistics from a Kippo SSH honeypot
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [alexkrontiris/OpenSSL-x25519-key_exchange](https://github.com/alexkrontiris/OpenSSL-x25519-key_exchange) - Example of private, public key generation and shared secret derivation using OpenSSL and the x25519 curve.
