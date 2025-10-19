@@ -867,6 +867,7 @@
 
 ## hacktoberfest 
 
+- [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
 - [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
