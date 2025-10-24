@@ -1254,6 +1254,7 @@
 
 ## others 
 
+- [lozaning/HomeAssistantPoliceDetector](https://github.com/lozaning/HomeAssistantPoliceDetector) - Scans for BLE devices and if it see any from Taser International sets an home assistant switch to 'on', turns back off a minute after the device is gone
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
 - [ikoniaris/kippo-graph](https://github.com/ikoniaris/kippo-graph) - Visualize statistics from a Kippo SSH honeypot
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
