@@ -96,6 +96,7 @@
 
 ## C 
 
+- [kamalmostafa/minimodem](https://github.com/kamalmostafa/minimodem) - general-purpose software audio FSK modem
 - [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [alexkrontiris/OpenSSL-x25519-key_exchange](https://github.com/alexkrontiris/OpenSSL-x25519-key_exchange) - Example of private, public key generation and shared secret derivation using OpenSSL and the x25519 curve.
@@ -301,6 +302,7 @@
 
 ## Go 
 
+- [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
