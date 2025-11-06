@@ -276,6 +276,7 @@
 
 ## awesome 
 
+- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -744,6 +745,7 @@
 
 ## go 
 
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -800,6 +802,7 @@
 
 ## golang 
 
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -936,6 +939,7 @@
 
 ## http 
 
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
@@ -1586,7 +1590,7 @@
 - [wbsun/tagfilesystem](https://github.com/wbsun/tagfilesystem) - Automatically exported from code.google.com/p/tagfilesystem
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [lbotsch/wireshark-bitcoin](https://github.com/lbotsch/wireshark-bitcoin) - Wireshark Bitcoin Dissector (ABANDONED)
-- [BMDan/rawdev](https://github.com/BMDan/rawdev) - Given a filename, a directory, or a device, return the underlying block device(s)
+- [BMDan/rawdev](https://github.com/BMDan/rawdev) - Given a filename, a directory, or a device, return the underlying physical hardware's /dev path.  De-maps MD, DM, partitions, etc.
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
 - [mauerbac/lambda-gateway-twilio-demo](https://github.com/mauerbac/lambda-gateway-twilio-demo) - Getting started with AWS Lambda + Amazon API Gateway
 - [saferoom-app/saferoomlinux](https://github.com/saferoom-app/saferoomlinux) - Encryption extension to cloud apps
