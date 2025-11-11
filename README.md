@@ -60,6 +60,7 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
+- [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -655,6 +656,7 @@
 
 ## Others 
 
+- [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes) - My notes for DDR3 SDRAM controller
 - [adgsenpai/LinuxSoundUpgrade](https://github.com/adgsenpai/LinuxSoundUpgrade) - a guide to tell you how to upgrade sound on any Linux distribution
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -730,7 +732,7 @@
 
 ## Python 
 
-- [GibsonAI/memori](https://github.com/GibsonAI/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+- [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [SASUKE-DUCK/dovi-to-hdr-converter](https://github.com/SASUKE-DUCK/dovi-to-hdr-converter) - 
 - [omribahumi/libvirt_metadata_api](https://github.com/omribahumi/libvirt_metadata_api) - Libvirt EC2 compatible metadata API
@@ -952,6 +954,10 @@
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
+## SystemVerilog 
+
+- [CompuSAR/simple_ddr_ctrl](https://github.com/CompuSAR/simple_ddr_ctrl) - A (very) simple DDR3 controller for FPGAs
+
 ## TeX 
 
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
@@ -994,6 +1000,8 @@
 
 ## Verilog 
 
+- [AngeloJacobo/UberDDR3](https://github.com/AngeloJacobo/UberDDR3) - Opensource DDR3 Controller
+- [buttercutter/DDR](https://github.com/buttercutter/DDR) - A simple DDR3 memory controller
 - [Wren6991/Hazard3](https://github.com/Wren6991/Hazard3) - 3-stage RV32IMACZb* processor with debug
 - [revaldinho/cpc_ram_expansion](https://github.com/revaldinho/cpc_ram_expansion) - A series of Amstrad CPC PCBs including a backplane, ROM and 512K and 1MByte RAM expansions.
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
