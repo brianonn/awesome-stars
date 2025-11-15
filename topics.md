@@ -1449,7 +1449,7 @@
 - [poldy/OpenCOMAL](https://github.com/poldy/OpenCOMAL) - OpenCOMAL aims to be a compliant Common COMAL interpreter. It has been tested on Linux and macOS.
 - [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project.  Please direct merge proposals to https://code.launchpad.net/curtin
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [adam7/delugia-code](https://github.com/adam7/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
+- [admcpr/delugia-code](https://github.com/admcpr/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
 - [mike-rankin/ESP32_iBeacon_Sensor](https://github.com/mike-rankin/ESP32_iBeacon_Sensor) - 
 - [fgrehm/vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [johnshearing/MyEtherWalletOffline](https://github.com/johnshearing/MyEtherWalletOffline) - Fork of MyEtherWallet with Additions for Offline Use With An Air-Gapped Raspberry Pi
