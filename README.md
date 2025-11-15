@@ -774,7 +774,7 @@
 - [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
 - [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project.  Please direct merge proposals to https://code.launchpad.net/curtin
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [adam7/delugia-code](https://github.com/adam7/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
+- [admcpr/delugia-code](https://github.com/admcpr/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
 - [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube) - Red Team K8S Adversary Emulation Based on kubectl
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
