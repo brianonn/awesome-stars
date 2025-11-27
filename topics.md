@@ -36,6 +36,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cms](#cms)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -435,6 +436,19 @@
 ## cms 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+## command-line 
+
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
+- [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 
 ## compiler 
 
