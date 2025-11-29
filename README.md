@@ -250,7 +250,7 @@
 
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [junegunn/lq](https://github.com/junegunn/lq) - A simple HTTP server for queuing lines of text
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [denisidoro/beavr](https://github.com/denisidoro/beavr) - A command-line autocompleter with steroids :muscle:
 
 ## CoffeeScript 
