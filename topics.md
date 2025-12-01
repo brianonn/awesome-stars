@@ -359,6 +359,7 @@
 
 ## c 
 
+- [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [howerj/forth-cpu](https://github.com/howerj/forth-cpu) - A Forth CPU and System on a Chip, based on the J1, written in VHDL
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -666,6 +667,7 @@
 
 ## embedded 
 
+- [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
