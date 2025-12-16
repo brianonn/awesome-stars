@@ -1289,6 +1289,7 @@
 
 ## others 
 
+- [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A ASGI Middleware to rate limit
 - [AngeloJacobo/UberDDR3](https://github.com/AngeloJacobo/UberDDR3) - Opensource DDR3 Controller
 - [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes) - My notes for DDR3 SDRAM controller
 - [buttercutter/DDR](https://github.com/buttercutter/DDR) - A simple DDR3 memory controller
