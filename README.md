@@ -383,7 +383,7 @@
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [jcla1/gisp](https://github.com/jcla1/gisp) - Simple LISP in Go
-- [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
+- [akatsuki105/magia](https://github.com/akatsuki105/magia) - This emulator is OLD and BAD, please visit DawnGBA
 - [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [gentlemanautomaton/smb](https://github.com/gentlemanautomaton/smb) - Server Message Block version 2 and 3 protocol library for Go
