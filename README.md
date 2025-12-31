@@ -8,6 +8,7 @@
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
@@ -90,6 +91,10 @@
 ## Astro 
 
 - [kinsta/hello-world-astro](https://github.com/kinsta/hello-world-astro) - An example of how to set your Astro application up to enable deployment on Kinsta App Hosting services.
+
+## Batchfile 
+
+- [rebane2001/sensible-yt-dlp-archive-scripts](https://github.com/rebane2001/sensible-yt-dlp-archive-scripts) - Sensible archive scripts I recommend for yt-dlp.
 
 ## BitBake 
 
@@ -851,6 +856,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -901,6 +907,7 @@
 
 ## Shell 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [kube/sf-mono-ligaturized](https://github.com/kube/sf-mono-ligaturized) - San Francisco Mono Font with Ligatures
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 - [b1f6c1c4/ttyssh](https://github.com/b1f6c1c4/ttyssh) - ssh with tty (serial port) forwarding
