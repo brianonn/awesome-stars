@@ -186,6 +186,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
@@ -2137,6 +2138,10 @@
 
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
+
+## video 
+
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 
 ## vim 
 
