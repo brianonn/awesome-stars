@@ -950,6 +950,7 @@
 - [BMDan/rawdev](https://github.com/BMDan/rawdev) - Given a filename, a directory, or a device, return the underlying physical hardware's /dev path.  De-maps MD, DM, partitions, etc.
 - [phuesler/zfs-scripts](https://github.com/phuesler/zfs-scripts) - 
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files
 - [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 - [RedpointArchive/phabricator](https://github.com/RedpointArchive/phabricator) - A Docker image that runs Phabricator, an open source software engineering tool
@@ -1032,7 +1033,6 @@
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 
 ## Vue 
 
