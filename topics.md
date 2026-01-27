@@ -403,6 +403,7 @@
 
 ## cli 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -452,6 +453,7 @@
 
 ## command-line 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
@@ -771,6 +773,7 @@
 
 ## github 
 
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
@@ -1201,6 +1204,7 @@
 
 ## markdown 
 
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 
@@ -2062,6 +2066,7 @@
 
 ## terminal 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
