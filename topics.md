@@ -587,7 +587,7 @@
 
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
@@ -794,7 +794,7 @@
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
