@@ -1505,7 +1505,7 @@
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [susam/may4](https://github.com/susam/may4) - Celebrating Star Wars Day with some Forth code! May the Forth be with you!
 - [poldy/OpenCOMAL](https://github.com/poldy/OpenCOMAL) - OpenCOMAL aims to be a compliant Common COMAL interpreter. It has been tested on Linux and macOS.
-- [canonical/curtin](https://github.com/canonical/curtin) - Official mirror of curtin project.  Please direct merge proposals to https://code.launchpad.net/curtin
+- [canonical/curtin](https://github.com/canonical/curtin) - Moved from launchpad to github, now the active code repo
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [admcpr/delugia-code](https://github.com/admcpr/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
 - [mike-rankin/ESP32_iBeacon_Sensor](https://github.com/mike-rankin/ESP32_iBeacon_Sensor) - 
