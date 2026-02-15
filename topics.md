@@ -1315,6 +1315,7 @@
 
 ## others 
 
+- [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface.
 - [rebane2001/sensible-yt-dlp-archive-scripts](https://github.com/rebane2001/sensible-yt-dlp-archive-scripts) - Sensible archive scripts I recommend for yt-dlp.
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A ASGI Middleware to rate limit
