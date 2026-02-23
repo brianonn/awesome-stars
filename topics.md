@@ -186,6 +186,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
@@ -1319,7 +1320,6 @@
 - [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface.
 - [rebane2001/sensible-yt-dlp-archive-scripts](https://github.com/rebane2001/sensible-yt-dlp-archive-scripts) - Sensible archive scripts I recommend for yt-dlp.
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A ASGI Middleware to rate limit
-- [AngeloJacobo/UberDDR3](https://github.com/AngeloJacobo/UberDDR3) - Opensource DDR3 Controller
 - [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes) - My notes for DDR3 SDRAM controller
 - [buttercutter/DDR](https://github.com/buttercutter/DDR) - A simple DDR3 memory controller
 - [CompuSAR/simple_ddr_ctrl](https://github.com/CompuSAR/simple_ddr_ctrl) - A (very) simple DDR3 controller for FPGAs
@@ -1529,7 +1529,6 @@
 - [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube) - Red Team K8S Adversary Emulation Based on kubectl
 - [cloudfoundry/go-diodes](https://github.com/cloudfoundry/go-diodes) - Diodes are ring buffers manipulated via atomics.
 - [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by anyone on the victim's network visiting a website
-- [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
 - [c2d7fa/jonasforth](https://github.com/c2d7fa/jonasforth) - Forth interpreter written in bare-metal assembly running on UEFI. (Unfinished)
 - [eeforeveryone/ampere](https://github.com/eeforeveryone/ampere) - EEforEveryone Project Ampere - Open Source Electronic Load Control Firmware
 - [carrot2/carrot2](https://github.com/carrot2/carrot2) - Carrot2: Text Clustering Algorithms and Applications
@@ -2145,6 +2144,11 @@
 
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
+
+## verilog 
+
+- [AngeloJacobo/UberDDR3](https://github.com/AngeloJacobo/UberDDR3) - Opensource DDR3 Controller
+- [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
 
 ## video 
 
