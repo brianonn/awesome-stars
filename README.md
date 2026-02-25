@@ -292,7 +292,7 @@
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
 - [zenozeng/yafolding.el](https://github.com/zenozeng/yafolding.el) - Yet another folding extension for Emacs
-- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [clemera/helm-ido-like-guide](https://github.com/clemera/helm-ido-like-guide) - Guide to get an intuitive and more ido-like helm interface in Emacs. Recommends configurations and packages to improve helms default interface.
 - [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
@@ -911,6 +911,7 @@
 
 ## Shell 
 
+- [agentify-sh/safeexec](https://github.com/agentify-sh/safeexec) - gates destructive commands like rm -rf, npm audit fix --force, git reset/revert, from losing uncommited work
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [kube/sf-mono-ligaturized](https://github.com/kube/sf-mono-ligaturized) - San Francisco Mono Font with Ligatures
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
