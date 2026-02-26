@@ -914,7 +914,6 @@
 
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
-- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
@@ -1316,6 +1315,7 @@
 
 ## others 
 
+- [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [agentify-sh/safeexec](https://github.com/agentify-sh/safeexec) - gates destructive commands like rm -rf, npm audit fix --force, git reset/revert, from losing uncommited work
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface.
