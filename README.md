@@ -188,6 +188,7 @@
 
 ## C# # 
 
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [xdanieldzd/Essgee](https://github.com/xdanieldzd/Essgee) - 8-bit game system emulator
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
