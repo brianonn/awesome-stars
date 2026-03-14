@@ -870,7 +870,7 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - ⵣ Ki Editor - Multi-cursor combinatoric modal editor.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [Zoxc/crusader](https://github.com/Zoxc/crusader) - A network throughput and latency tester.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
