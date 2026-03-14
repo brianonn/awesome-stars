@@ -1385,7 +1385,7 @@
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - ⵣ Ki Editor - Multi-cursor combinatoric modal editor.
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [45Drives/cockpit-zfs-manager](https://github.com/45Drives/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
