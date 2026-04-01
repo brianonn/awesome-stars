@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [lozaning/HomeAssistantPoliceDetector](https://github.com/lozaning/HomeAssistantPoliceDetector) - Scans for BLE devices and if it see any from Taser International sets an home assistant switch to 'on', turns back off a minute after the device is gone
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -748,7 +749,7 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface.
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A ASGI Middleware to rate limit
-- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and interactions into structured, persistent state for production systems.
 - [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [SASUKE-DUCK/dovi-to-hdr-converter](https://github.com/SASUKE-DUCK/dovi-to-hdr-converter) - 
 - [omribahumi/libvirt_metadata_api](https://github.com/omribahumi/libvirt_metadata_api) - Libvirt EC2 compatible metadata API
