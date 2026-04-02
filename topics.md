@@ -1969,6 +1969,7 @@
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
