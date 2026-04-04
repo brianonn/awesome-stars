@@ -1336,6 +1336,7 @@
 
 ## others 
 
+- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [agentify-sh/safeexec](https://github.com/agentify-sh/safeexec) - gates destructive commands like rm -rf, npm audit fix --force, git reset/revert, from losing uncommited work
