@@ -102,6 +102,7 @@
 
 ## C 
 
+- [SoulXHades/Challenges](https://github.com/SoulXHades/Challenges) - This folder contains challenges or questions from school or other places.
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [kamalmostafa/minimodem](https://github.com/kamalmostafa/minimodem) - general-purpose software audio FSK modem
 - [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
