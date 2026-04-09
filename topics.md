@@ -266,6 +266,7 @@
 
 ## archlinux 
 
+- [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 
 ## arduino 
@@ -409,6 +410,7 @@
 
 ## cli 
 
+- [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
@@ -1145,6 +1147,7 @@
 
 ## linux 
 
+- [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [adgsenpai/LinuxSoundUpgrade](https://github.com/adgsenpai/LinuxSoundUpgrade) - a guide to tell you how to upgrade sound on any Linux distribution
@@ -2170,6 +2173,7 @@
 
 ## ubuntu 
 
+- [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [canonical/subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer, and backend for Ubuntu Desktop Installer
