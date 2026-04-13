@@ -674,6 +674,7 @@
 
 ## Others 
 
+- [hnaymyh123-henry/claude-dev-skill](https://github.com/hnaymyh123-henry/claude-dev-skill) - A Claude Code custom skill that turns Claude into a Tech Lead — coordinating parallel Worker Agents through a full dev workflow: PRD alignment, architecture, coding, QA, and PR review.
 - [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes) - My notes for DDR3 SDRAM controller
 - [adgsenpai/LinuxSoundUpgrade](https://github.com/adgsenpai/LinuxSoundUpgrade) - a guide to tell you how to upgrade sound on any Linux distribution
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
@@ -750,6 +751,7 @@
 
 ## Python 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface.
