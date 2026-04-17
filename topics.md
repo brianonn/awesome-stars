@@ -220,6 +220,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -645,7 +646,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -1264,6 +1265,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
@@ -1373,7 +1375,7 @@
 ## others 
 
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [SoulXHades/Challenges](https://github.com/SoulXHades/Challenges) - This folder contains challenges or questions from school or other places.
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
@@ -1846,7 +1848,7 @@
 
 ## pwa 
 
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 
 ## python 
 
@@ -2219,7 +2221,7 @@
 ## ui 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 
 ## verilog 
