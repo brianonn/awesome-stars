@@ -315,6 +315,7 @@
 
 ## Go 
 
+- [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
@@ -725,6 +726,7 @@
 
 ## PHP 
 
+- [mikopbx/Core](https://github.com/mikopbx/Core) - MikoPBX — free open-source PBX for small business, built on Asterisk 22, PHP 8.4, and Phalcon 5. Deploy as ISO, Docker, LXC, or in the cloud.
 - [ikoniaris/kippo-graph](https://github.com/ikoniaris/kippo-graph) - Visualize statistics from a Kippo SSH honeypot
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
