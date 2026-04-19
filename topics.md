@@ -1413,7 +1413,6 @@
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
 - [SASUKE-DUCK/dovi-to-hdr-converter](https://github.com/SASUKE-DUCK/dovi-to-hdr-converter) - 
 - [omribahumi/libvirt_metadata_api](https://github.com/omribahumi/libvirt_metadata_api) - Libvirt EC2 compatible metadata API
-- [we-are-mono/firmware](https://github.com/we-are-mono/firmware) - Gateway firmware image builder
 - [c0pperdragon/LumaCode](https://github.com/c0pperdragon/LumaCode) - Definition of the "LumaCode" signal standard with reference implementation
 - [armageddon421/ResCan](https://github.com/armageddon421/ResCan) - Resistor ring value scanner
 - [openocd-org/openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
