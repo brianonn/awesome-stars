@@ -675,6 +675,7 @@
 
 ## Others 
 
+- [paulkazusek/std_format_cheatsheet](https://github.com/paulkazusek/std_format_cheatsheet) - Cheatsheet for the c++20 format library
 - [hnaymyh123-henry/claude-dev-skill](https://github.com/hnaymyh123-henry/claude-dev-skill) - A Claude Code custom skill that turns Claude into a Tech Lead — coordinating parallel Worker Agents through a full dev workflow: PRD alignment, architecture, coding, QA, and PR review.
 - [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes) - My notes for DDR3 SDRAM controller
 - [adgsenpai/LinuxSoundUpgrade](https://github.com/adgsenpai/LinuxSoundUpgrade) - a guide to tell you how to upgrade sound on any Linux distribution
