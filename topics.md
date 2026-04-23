@@ -510,6 +510,7 @@
 
 ## cpp 
 
+- [paulkazusek/std_format_cheatsheet](https://github.com/paulkazusek/std_format_cheatsheet) - Cheatsheet for the c++20 format library
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
