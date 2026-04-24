@@ -1379,6 +1379,7 @@
 
 ## others 
 
+- [tizbac/proxmoxbackupclient_go](https://github.com/tizbac/proxmoxbackupclient_go) - In development proxmox backup client written in golang, aimed at windows compatibility
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [SoulXHades/Challenges](https://github.com/SoulXHades/Challenges) - This folder contains challenges or questions from school or other places.
