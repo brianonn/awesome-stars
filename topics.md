@@ -1380,6 +1380,10 @@
 
 ## others 
 
+- [talkie-lm/talkie](https://github.com/talkie-lm/talkie) - talkie is a vintage language model from 1930
+- [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - 
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [digitalandrew/wairz](https://github.com/digitalandrew/wairz) - An open-source AI assisted firmware analysis tool
 - [stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) - :eyes: The most minimalistic and highly customizable SDDM theme.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [tizbac/proxmoxbackupclient_go](https://github.com/tizbac/proxmoxbackupclient_go) - In development proxmox backup client written in golang, aimed at windows compatibility
