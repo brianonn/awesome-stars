@@ -757,6 +757,7 @@
 
 ## Python 
 
+- [talkie-lm/talkie](https://github.com/talkie-lm/talkie) - talkie is a vintage language model from 1930
 - [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - 
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [digitalandrew/wairz](https://github.com/digitalandrew/wairz) - An open-source AI assisted firmware analysis tool
