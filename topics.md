@@ -1385,6 +1385,7 @@
 
 ## others 
 
+- [richleland/pygments-css](https://github.com/richleland/pygments-css) - css files created from pygment's built-in styles
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
