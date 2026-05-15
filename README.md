@@ -533,7 +533,7 @@
 
 ## JavaScript 
 
-- [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) - Curated Agent Skills collection for AI-assisted development | Claude Code & other AI agents | By Netresearch
+- [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) - Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
