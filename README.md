@@ -48,6 +48,7 @@
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Odin](#odin)
+- [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -680,6 +681,10 @@
 
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
+## Open Policy Agent 
+
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
+
 ## Others 
 
 - [paulkazusek/std_format_cheatsheet](https://github.com/paulkazusek/std_format_cheatsheet) - Cheatsheet for the c++20 format library
@@ -941,6 +946,7 @@
 
 ## Shell 
 
+- [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) - A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched models
 - [netresearch/file-search-skill](https://github.com/netresearch/file-search-skill) - Claude Code skill: Fast code and file search using ripgrep, ast-grep, fd, rga, tokei
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
