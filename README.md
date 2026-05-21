@@ -103,6 +103,7 @@
 
 ## C 
 
+- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and OCRE container technology
 - [netwho/PacketCircle](https://github.com/netwho/PacketCircle) - Wireshark Plugin for traffic-matrix visualisation
 - [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [SoulXHades/Challenges](https://github.com/SoulXHades/Challenges) - This folder contains challenges or questions from school or other places.
