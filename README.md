@@ -165,7 +165,7 @@
 - [cloudshark/cshark](https://github.com/cloudshark/cshark) - OpenWrt integration
 - [LenShustek/readtape](https://github.com/LenShustek/readtape) - Decode the analog waveform extracted from old computer mag tapes
 - [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [emgram769/lighthouse](https://github.com/emgram769/lighthouse) - A simple scriptable popup dialog to run on X.
 - [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
