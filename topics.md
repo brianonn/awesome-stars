@@ -277,6 +277,7 @@
 ## api 
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
@@ -847,6 +848,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [jetify-com/typeid-go](https://github.com/jetify-com/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
@@ -909,6 +911,7 @@
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 - [dailymuse/gzap](https://github.com/dailymuse/gzap) - ⚡ Graylog integrated Zap  logger
@@ -1298,6 +1301,7 @@
 
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
