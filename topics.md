@@ -1406,7 +1406,7 @@
 
 ## others 
 
-- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and OCRE container technology
+- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) - A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched models
 - [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) - Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.
 - [netresearch/file-search-skill](https://github.com/netresearch/file-search-skill) - Claude Code skill: Fast code and file search using ripgrep, ast-grep, fd, rga, tokei
