@@ -149,7 +149,6 @@
 - [dracut-crypt-ssh/dracut-crypt-ssh](https://github.com/dracut-crypt-ssh/dracut-crypt-ssh) - dracut initramfs module to start dropbear sshd during boot to unlock the root  filesystem with the (cryptsetup) LUKS passphrase remotely
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [sipeed/TinyMaix](https://github.com/sipeed/TinyMaix) - TinyMaix is a tiny inference library for microcontrollers (TinyML).
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations) - Code for simulations on YouTube
 - [slavaim/riscv-magenta](https://github.com/slavaim/riscv-magenta) - Magenta kernel port to RISC-V
@@ -397,6 +396,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
