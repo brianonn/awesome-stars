@@ -1423,6 +1423,7 @@
 
 ## others 
 
+- [PlummersSoftwareLLC/TinyRetroPad](https://github.com/PlummersSoftwareLLC/TinyRetroPad) - 
 - [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) - A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched models
 - [netresearch/file-search-skill](https://github.com/netresearch/file-search-skill) - Claude Code skill: Fast code and file search using ripgrep, ast-grep, fd, rga, tokei
