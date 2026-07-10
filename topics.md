@@ -212,6 +212,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -2402,6 +2403,11 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+## workflow 
+
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 
 ## youtube 
 
