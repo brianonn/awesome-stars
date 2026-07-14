@@ -1423,6 +1423,7 @@
 
 ## others 
 
+- [KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive](https://github.com/KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive) - Howto create a UEFI Shell Boot Device
 - [jsonwebtoken/jwt-skills](https://github.com/jsonwebtoken/jwt-skills) - Agent skills that help decode, encode and validate JSON Web Tokens
 - [PlummersSoftwareLLC/TinyRetroPad](https://github.com/PlummersSoftwareLLC/TinyRetroPad) - 
 - [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
