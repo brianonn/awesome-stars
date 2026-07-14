@@ -693,6 +693,7 @@
 
 ## Others 
 
+- [KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive](https://github.com/KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive) - Howto create a UEFI Shell Boot Device
 - [jsonwebtoken/jwt-skills](https://github.com/jsonwebtoken/jwt-skills) - Agent skills that help decode, encode and validate JSON Web Tokens
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [paulkazusek/std_format_cheatsheet](https://github.com/paulkazusek/std_format_cheatsheet) - Cheatsheet for the c++20 format library
