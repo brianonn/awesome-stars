@@ -1422,6 +1422,7 @@
 
 ## others 
 
+- [garyexplains/BASIC-M6502-CPORT](https://github.com/garyexplains/BASIC-M6502-CPORT) - Microsoft BASIC for 6502 microprocessor ported to C to run on modern PC (Windows, Linux, macOS)
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive](https://github.com/KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive) - Howto create a UEFI Shell Boot Device
 - [jsonwebtoken/jwt-skills](https://github.com/jsonwebtoken/jwt-skills) - Agent skills that help decode, encode and validate JSON Web Tokens
