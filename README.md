@@ -663,7 +663,7 @@
 ## Nix 
 
 - [IceDBorn/postnix](https://github.com/IceDBorn/postnix) - A nix configuration for postmarketOS
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
 
