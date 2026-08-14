@@ -401,6 +401,7 @@
 
 ## c 
 
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [howerj/forth-cpu](https://github.com/howerj/forth-cpu) - A Forth CPU and System on a Chip, based on the J1, written in VHDL
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
@@ -1210,7 +1211,7 @@
 
 ## linux 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1757,7 +1758,7 @@
 - [250bpm/sp-userland](https://github.com/250bpm/sp-userland) - 
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [go-qml/qml](https://github.com/go-qml/qml) - QML support for the Go language
-- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [pass-extension/pass-otp](https://github.com/pass-extension/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [glycerine/goq](https://github.com/glycerine/goq) - goq: a distributed job queuing system in Go (golang).  An "ultralight shell-script Kubernetes", if you like buzz words.
 - [vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077) - Various tools for testing RFC 5077
 - [sfromm/ansible-playbooks](https://github.com/sfromm/ansible-playbooks) - 
@@ -1866,7 +1867,7 @@
 
 ## physics 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 
 ## postgresql 
