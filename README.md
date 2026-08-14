@@ -105,7 +105,7 @@
 
 ## C 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [netwho/PacketCircle](https://github.com/netwho/PacketCircle) - Wireshark Plugin for traffic-matrix visualisation
@@ -998,7 +998,7 @@
 - [jedda/Counterpart](https://github.com/jedda/Counterpart) - A wrapper script for rsync 3.0+ that is capable of producing a bootable clone of a live Mac OS X system. Features extensive error handling, automatic logging, stats generation, and a companion Nagios 
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [Scifabric/loadtesting](https://github.com/Scifabric/loadtesting) - Loadtests with Locust for a production PyBossa instance
-- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [pass-extension/pass-otp](https://github.com/pass-extension/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
