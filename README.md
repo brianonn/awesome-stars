@@ -105,7 +105,7 @@
 
 ## C 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [netwho/PacketCircle](https://github.com/netwho/PacketCircle) - Wireshark Plugin for traffic-matrix visualisation
