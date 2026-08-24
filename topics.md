@@ -1894,6 +1894,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [univ-of-utah-marriott-library-apple/privacy_services_manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - A single management utility to administer Location Services, Contacts requests, Accessibility, and iCloud access in Apple's OS X.
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 
