@@ -260,6 +260,7 @@
 
 ## CSS 
 
+- [druxorey/startpage](https://github.com/druxorey/startpage) - A minimalist startpage designed for quick access to your favorite websites.
 - [richleland/pygments-css](https://github.com/richleland/pygments-css) - css files created from pygment's built-in styles
 - [nikhiljohn10/ddnslab](https://github.com/nikhiljohn10/ddnslab) - Cloudflare DDNS Worker API
 - [dmarc-viewer/dmarc-viewer](https://github.com/dmarc-viewer/dmarc-viewer) - Django based web-app to visually analyze DMARC aggregate reports
@@ -542,6 +543,7 @@
 
 ## JavaScript 
 
+- [xtditom/YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard) - A feature-rich new tab dashboard that replaces your default start page with a personalized and productive workspace, including custom themes, wallpapers, weather, a to-do list, and more.
 - [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) - Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -632,6 +634,7 @@
 
 ## Lua 
 
+- [wurli/jet.nvim](https://github.com/wurli/jet.nvim) - A Jupyter kernel supervisor for Neovim, built on top of Jet ✈️
 - [occivink/mpv-image-viewer](https://github.com/occivink/mpv-image-viewer) - Configuration, scripts and tips for using mpv as an image viewer
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
@@ -780,6 +783,7 @@
 
 ## Python 
 
+- [nonifo/diskrisk](https://github.com/nonifo/diskrisk) - Diskrisk + diskinfo — SMART risk trends, hybrid risk engine, and serial→bay map for DIY / homelab NAS (v1.4)
 - [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [talkie-lm/talkie](https://github.com/talkie-lm/talkie) - talkie is a vintage language model from 1930
 - [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - 
