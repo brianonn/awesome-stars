@@ -1426,6 +1426,7 @@
 
 ## others 
 
+- [ivikash/TabGenius](https://github.com/ivikash/TabGenius) - Sort and organize Chrome tabs based on title, URL, or content using AI
 - [druxorey/startpage](https://github.com/druxorey/startpage) - A minimalist startpage designed for quick access to your favorite websites.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [garyexplains/BASIC-M6502-CPORT](https://github.com/garyexplains/BASIC-M6502-CPORT) - Microsoft BASIC for 6502 microprocessor ported to C to run on modern PC (Windows, Linux, macOS)
