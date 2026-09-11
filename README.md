@@ -543,6 +543,7 @@
 
 ## JavaScript 
 
+- [ivikash/TabGenius](https://github.com/ivikash/TabGenius) - Sort and organize Chrome tabs based on title, URL, or content using AI
 - [xtditom/YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard) - A feature-rich new tab dashboard that replaces your default start page with a personalized and productive workspace, including custom themes, wallpapers, weather, a to-do list, and more.
 - [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) - Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
