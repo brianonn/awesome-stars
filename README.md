@@ -1103,6 +1103,7 @@
 
 ## Vue 
 
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [matfish2/vue-stripe](https://github.com/matfish2/vue-stripe) - Vue.js 2 Stripe checkout component
 - [awkweb/notational](https://github.com/awkweb/notational) - Real-time notes app built with Vue.js
