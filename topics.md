@@ -115,6 +115,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
+- [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -415,6 +416,7 @@
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
+- [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
@@ -426,6 +428,7 @@
 
 - [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+- [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
@@ -667,7 +670,7 @@
 ## distributed-systems 
 
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 
 ## django 
 
@@ -842,7 +845,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [franela/vault](https://github.com/franela/vault) - Vault - cross-platform GPG KV store for teams made easy
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -1058,6 +1061,7 @@
 
 - [cysouw/toc-css](https://github.com/cysouw/toc-css) - Pandoc Lua Filter to add table of contents to the side
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
+- [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 
 ## html5 
 
@@ -1211,6 +1215,10 @@
 
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+
+## latex 
+
+- [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 
 ## library 
 
@@ -1625,7 +1633,6 @@
 - [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
-- [logological/gpp](https://github.com/logological/gpp) - GPP, a generic preprocessor
 - [CDSoft/upp](https://github.com/CDSoft/upp) - UPP is a minimalist and generic text preprocessor using Lua macros.
 - [BenBrock/reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
 - [alex-bender/papers-we-love](https://github.com/alex-bender/papers-we-love) - Papers from the computer science community to read and discuss.
