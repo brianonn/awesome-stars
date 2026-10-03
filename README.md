@@ -162,7 +162,7 @@
 - [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
 - [bradfa/flashbench](https://github.com/bradfa/flashbench) - Testing tool for managed flash memory devices, see the 'dev' branch for updates which aren't yet "upstream" and report your results to the flashbench-results mailing list -&gt;
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-- [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
+- [microsoft/ProcMon-Linux](https://github.com/microsoft/ProcMon-Linux) - A Linux version of the Procmon Sysinternals tool
 - [andrei7c4/weatherdisplay](https://github.com/andrei7c4/weatherdisplay) - ESP8266 based weather display with e-ink screen
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [cloudshark/cshark](https://github.com/cloudshark/cshark) - OpenWrt integration
@@ -340,7 +340,7 @@
 - [amlwwalker/wingit](https://github.com/amlwwalker/wingit) - Open Source End-End Encryption File Sharing App
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
