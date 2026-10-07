@@ -262,6 +262,7 @@
 
 - [druxorey/startpage](https://github.com/druxorey/startpage) - A minimalist startpage designed for quick access to your favorite websites.
 - [richleland/pygments-css](https://github.com/richleland/pygments-css) - css files created from pygment's built-in styles
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [nikhiljohn10/ddnslab](https://github.com/nikhiljohn10/ddnslab) - Cloudflare DDNS Worker API
 - [dmarc-viewer/dmarc-viewer](https://github.com/dmarc-viewer/dmarc-viewer) - Django based web-app to visually analyze DMARC aggregate reports
 - [kriasoft/SPA-Seed.Front-end](https://github.com/kriasoft/SPA-Seed.Front-end) - A single-page application (SPA) project template (aka SPA seed project), which has a pre-configured build system, JavaScript bundling and dependency resolution, unit and integration test runners, mini
@@ -556,7 +557,6 @@
 - [45Drives/cockpit-zfs-manager](https://github.com/45Drives/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
