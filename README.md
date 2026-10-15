@@ -28,6 +28,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -105,7 +106,7 @@
 
 ## C 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [netwho/PacketCircle](https://github.com/netwho/PacketCircle) - Wireshark Plugin for traffic-matrix visualisation
@@ -512,6 +513,10 @@
 ## Handlebars 
 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+
+## Haskell 
+
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 
 ## Haxe 
 
