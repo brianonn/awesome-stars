@@ -97,6 +97,7 @@
 - [graphql](#graphql)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
@@ -413,7 +414,7 @@
 
 ## c 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [howerj/forth-cpu](https://github.com/howerj/forth-cpu) - A Forth CPU and System on a Chip, based on the J1, written in VHDL
 - [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
@@ -1053,6 +1054,10 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
 
+## haskell 
+
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
+
 ## home-assistant 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -1228,7 +1233,8 @@
 
 ## linux 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [cubic-vm/cubic](https://github.com/cubic-vm/cubic) - A lightweight command-line manager for virtual machines
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1889,7 +1895,7 @@
 
 ## physics 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 
 ## postgresql 
