@@ -243,7 +243,6 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori wo
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -257,7 +256,6 @@
 ## ai-agents 
 
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
@@ -672,7 +670,6 @@
 
 ## distributed-systems 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 
 ## django 
@@ -1334,13 +1331,11 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
 ## microservices 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [goadesign/examples](https://github.com/goadesign/examples) - Examples for goa showing specific capabilities
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -1354,7 +1349,6 @@
 
 ## monitoring 
 
-- [nonifo/diskrisk](https://github.com/nonifo/diskrisk) - Diskrisk + diskinfo — SMART risk trends, hybrid risk engine, and serial→bay map for DIY / homelab NAS (v1.4)
 - [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
