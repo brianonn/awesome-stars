@@ -1349,6 +1349,7 @@
 
 ## monitoring 
 
+- [nonifo/diskrisk](https://github.com/nonifo/diskrisk) - Diskrisk + diskinfo — SMART risk trends, hybrid risk engine, and serial→bay map for DIY / homelab NAS (v1.4)
 - [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
