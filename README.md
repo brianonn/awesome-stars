@@ -263,6 +263,7 @@
 
 - [druxorey/startpage](https://github.com/druxorey/startpage) - A minimalist startpage designed for quick access to your favorite websites.
 - [richleland/pygments-css](https://github.com/richleland/pygments-css) - css files created from pygment's built-in styles
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [nikhiljohn10/ddnslab](https://github.com/nikhiljohn10/ddnslab) - Cloudflare DDNS Worker API
 - [dmarc-viewer/dmarc-viewer](https://github.com/dmarc-viewer/dmarc-viewer) - Django based web-app to visually analyze DMARC aggregate reports
@@ -675,7 +676,6 @@
 ## Nix 
 
 - [IceDBorn/postnix](https://github.com/IceDBorn/postnix) - A nix configuration for postmarketOS
-- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [alternateved/nixos-config](https://github.com/alternateved/nixos-config) - My NixOS configuration
 
