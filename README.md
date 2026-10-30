@@ -1045,6 +1045,7 @@
 
 ## TypeScript 
 
+- [callstackincubator/simlock](https://github.com/callstackincubator/simlock) - A control plane so parallel coding agents stop fighting over the same simulator.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mortennordbye/homelab](https://github.com/mortennordbye/homelab) - GitOps-managed homelab using Kubernetes (Talos), ArgoCD, and Terraform for infrastructure as code.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
