@@ -210,6 +210,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1663,7 +1664,6 @@
 - [unobtanium-official/Unobtanium](https://github.com/unobtanium-official/Unobtanium) - Colder than Gold, Shinier than Silver. It's Unobtanium. https://unobtanium.uno
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 - [pavel-kirienko/cpu-load-side-channel](https://github.com/pavel-kirienko/cpu-load-side-channel) - Side-channel file transfer between independent VMs or processes executed on the same physical host.
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [drandyhaas/haasmesh](https://github.com/drandyhaas/haasmesh) - Scripts and other files for the Haas Mesh OpenWRT system
 - [nilsberglund-orleans/YouTube-simulations](https://github.com/nilsberglund-orleans/YouTube-simulations) - Code for simulations on YouTube
 - [Breadstick-Innovations/M4-Breadstick](https://github.com/Breadstick-Innovations/M4-Breadstick) - A long and thin development board, designed to keep the number and length of jumper wires to a minimum. Runs Circuit Python on Microchip SAMD51G19A - Arduino in the works! Entered in Hackaday Prize 20
@@ -2402,6 +2402,14 @@
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+
+## vscode 
+
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 
 ## vue 
 
