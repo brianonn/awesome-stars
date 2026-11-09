@@ -114,6 +114,7 @@
 - [javascript](#javascript)
 - [jenkins](#jenkins)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1178,6 +1179,10 @@
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [gistia/json-log-viewer](https://github.com/gistia/json-log-viewer) - Powerful terminal based viewer for JSON logs using ncurses.
 
+## knowledge-graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+
 ## kotlin 
 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1480,7 +1485,7 @@
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) - :eyes: The most minimalistic and highly customizable SDDM theme.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [tizbac/proxmoxbackupclient_go](https://github.com/tizbac/proxmoxbackupclient_go) - In development proxmox backup client written in golang, aimed at windows compatibility
+- [Salvanza/salvanza_client](https://github.com/Salvanza/salvanza_client) - Salvanza: open-source backup client for Proxmox Backup Server. Folder and whole-machine backups on Windows and Linux (amd64 and arm64), with a desktop app, background service and command line. Restore
 - [gilby125/mcp-proxmox](https://github.com/gilby125/mcp-proxmox) - MCP server for Proxmox virtualization management with configurable permissions
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [SoulXHades/Challenges](https://github.com/SoulXHades/Challenges) - This folder contains challenges or questions from school or other places.
