@@ -160,7 +160,6 @@
 - [poldy/OpenCOMAL](https://github.com/poldy/OpenCOMAL) - OpenCOMAL aims to be a compliant Common COMAL interpreter. It has been tested on Linux and macOS.
 - [niclash/forthright](https://github.com/niclash/forthright) - Forth for ESP-8266
 - [HelenOS/helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
-- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
 - [bradfa/flashbench](https://github.com/bradfa/flashbench) - Testing tool for managed flash memory devices, see the 'dev' branch for updates which aren't yet "upstream" and report your results to the flashbench-results mailing list -&gt;
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
@@ -231,6 +230,7 @@
 - [ricardocosme/inout_thermo](https://github.com/ricardocosme/inout_thermo) - ATtiny85 Inside&Outside thermometer written in modern C++
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [eeforeveryone/ampere](https://github.com/eeforeveryone/ampere) - EEforEveryone Project Ampere - Open Source Electronic Load Control Firmware
+- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station) - T12 Quick Heating Soldering Station
 - [domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc) - openwrt CC with Domino/GL patches
 - [wagiminator/ATtiny85-TinyLoad](https://github.com/wagiminator/ATtiny85-TinyLoad) - Electronic Dummy Load
@@ -759,7 +759,7 @@
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [madewithlove/htaccess.madewithlove.com](https://github.com/madewithlove/htaccess.madewithlove.com) - Issues with our htaccess tester
 - [jerry-D/SYMPL-GP-GPU-Compute-Engines](https://github.com/jerry-D/SYMPL-GP-GPU-Compute-Engines) - Single, dual, quad, eight, and sixteen-shader GP-GPU-Compute engines, along with 32-bit SYMPL RISC CPU and Coarse-Grained Scheduler, in open-source Verilog RTL for 32-bit single-precision floating-poi
-- [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
+- [Asuswrt-Merlin/asuswrt-merlin.legacy](https://github.com/Asuswrt-Merlin/asuswrt-merlin.legacy) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 
 ## PHP 
 
@@ -987,7 +987,7 @@
 - [SimonLammer/dotfiles](https://github.com/SimonLammer/dotfiles) - 
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [prabirshrestha/simple-ubuntu-installer](https://github.com/prabirshrestha/simple-ubuntu-installer) - simple encrypted zfs ubuntu installer
 - [FydeOS/chromium_os-vm-vmware](https://github.com/FydeOS/chromium_os-vm-vmware) - Build and run your Chromium OS on VMWare virtual machine client
