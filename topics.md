@@ -1873,7 +1873,7 @@
 - [colinbdclark/osc.js](https://github.com/colinbdclark/osc.js) - An Open Sound Control (OSC) library for JavaScript that works in both the browser and Node.js
 - [iand/amberfell](https://github.com/iand/amberfell) - 
 - [Guzunty/Pi](https://github.com/Guzunty/Pi) - This repository contains resources to support the Guzunty Pi IO expansion board
-- [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
+- [Asuswrt-Merlin/asuswrt-merlin.legacy](https://github.com/Asuswrt-Merlin/asuswrt-merlin.legacy) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 - [python-ivi/python-ivi](https://github.com/python-ivi/python-ivi) - A Python implementation of the Interchangeable Virtual Instrument standard.
 - [SasaKaranovic/USB-Power-supply-Active-Load-Tester](https://github.com/SasaKaranovic/USB-Power-supply-Active-Load-Tester) - Open Source Open Hardware USB Power Supply Active Load testing unit
 - [kriasoft/SPA-Seed.Front-end](https://github.com/kriasoft/SPA-Seed.Front-end) - A single-page application (SPA) project template (aka SPA seed project), which has a pre-configured build system, JavaScript bundling and dependency resolution, unit and integration test runners, mini
@@ -2288,7 +2288,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
