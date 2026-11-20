@@ -406,7 +406,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -791,6 +791,7 @@
 
 ## Python 
 
+- [imsaiguy/autorouter](https://github.com/imsaiguy/autorouter) - 
 - [nonifo/diskrisk](https://github.com/nonifo/diskrisk) - Diskrisk + diskinfo — SMART risk trends, hybrid risk engine, and serial→bay map for DIY / homelab NAS (v1.4)
 - [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [netresearch/file-search-skill](https://github.com/netresearch/file-search-skill) - Claude Code skill: Fast code and file search using ripgrep, ast-grep, fd, rga, tokei
