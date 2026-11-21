@@ -1463,6 +1463,7 @@
 
 ## others 
 
+- [kardolus/prompts](https://github.com/kardolus/prompts) - Collection of AI prompts
 - [imsaiguy/autorouter](https://github.com/imsaiguy/autorouter) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ivikash/TabGenius](https://github.com/ivikash/TabGenius) - Sort and organize Chrome tabs based on title, URL, or content using AI
