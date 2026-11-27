@@ -188,7 +188,7 @@
 - [tihirvon/dex](https://github.com/tihirvon/dex) - Dextrous text editor
 - [Guzunty/Pi](https://github.com/Guzunty/Pi) - This repository contains resources to support the Guzunty Pi IO expansion board
 - [SasaKaranovic/USB-Power-supply-Active-Load-Tester](https://github.com/SasaKaranovic/USB-Power-supply-Active-Load-Tester) - Open Source Open Hardware USB Power Supply Active Load testing unit
-- [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
+- [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME (mirror for https://codeberg.org/lwindolf/liferea)
 - [limpkin/mooltipass](https://github.com/limpkin/mooltipass) - Github repository dedicated to the mooltipass project
 - [kumina/fakemac](https://github.com/kumina/fakemac) - 
 - [packetlss/amonra_bootable_recovery](https://github.com/packetlss/amonra_bootable_recovery) - The source for the various recovery images by amon_ra for Android phones. See wiki for branch descriptions. Additional binaries can be built from http://github.com/packetlss/android_bootable_recovery
